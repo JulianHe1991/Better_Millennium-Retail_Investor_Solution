@@ -1,1 +1,1 @@
-# factorBasedInvesting
+# FactorBasedInvesting

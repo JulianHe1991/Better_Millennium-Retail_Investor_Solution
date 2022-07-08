@@ -1,0 +1,535 @@
+﻿Name,Ticker,Date: Morningstar Rating,"Morningstar 
+Rating 
+Overall","Morningstar 
+Fair Value 
+Status",Morningstar Fair Value Per Share,Fair Value Uncertainty,"Stock Capital Allocation 
+Rating",Date: Economic Moat,Economic Moat,Moat Trend,"Moat Source 
+- Cost Advantage","Moat Source 
+- Efficient Scale","Moat Source 
+- Intangible Assets","Moat Source 
+- Network Effect","Moat Source 
+- Switch Cost",Morningstar Quantitative Rating Date,Morningstar Quantitative Rating Overall,Date: Quantitative Valuation,Quantitative Moat,Quantitative Valuation,Quantitative Valuation Uncertainty,Quantitative Financial Health,"Quantitative Fair Value 
+Estimate 
+USD","Morningstar 
+Credit Rating 
+Date","Morningstar 
+Credit Rating",Date: Morningstar Grades,Growth Grade,Profitability Grade,Financial Health Grade,Probability of Default,Solvency Score,Bear Market Rank Decile,"Business Risk 
+Pillar","Solvency Score 
+Pillar","Cash Flow Cushion 
+Pillar",Stress Test Pillar,Momentum Score %,Consider Buying,Consider Selling
+3M Co,MMM,7/5/2022,4,Active,186,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,165.28,,,7/5/2022,C,C,B,0,341.37,9,,,,,22.61,130.2,251.1
+A.O. Smith Corp,AOS,,,,,,,,,,,,,,,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Strong,70.81,,,7/5/2022,C,C,B,0,211.71,8,,,,,35.7,,
+Abbott Laboratories,ABT,7/5/2022,3,Active,104,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Strong,111.75,,,7/5/2022,C,B,A,0,300.44,5,,,,,47.99,72.8,140.4
+AbbVie Inc,ABBV,7/5/2022,2,Active,125,High,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Overvalued,Medium,Moderate,142.9,,,7/5/2022,B,,B,0,490.74,8,,,,,93.37,75,193.75
+Abiomed Inc,ABMD,,,,,,,12/31/2013,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,258.62,,,7/5/2022,B,D,A,0,,7,,,,,28.87,,
+Accenture PLC Class A,ACN,7/5/2022,3,Active,258,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,290.95,,,7/5/2022,C,C,A,0,236.65,8,,,,,42.12,180.6,348.3
+Activision Blizzard Inc,ATVI,7/5/2022,4,Active,92,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Strong,93.17,,,7/5/2022,C,C,B,0,221.87,6,,,,,59.6,55.2,142.6
+Adobe Inc,ADBE,7/5/2022,4,Active,500,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,No,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,483.5,,,7/5/2022,B,A,B,0,254.88,6,,,,,8.33,350,675
+Advance Auto Parts Inc,AAP,7/5/2022,4,Active,234,Medium,Exemplary,7/5/2022,Narrow,Positive,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,222.55,,,7/5/2022,C,C,B,0,454.66,6,,,,,46.06,163.8,315.9
+Advanced Micro Devices Inc,AMD,7/5/2022,5,Active,130,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,122.85,,,7/5/2022,B,A,C,0,224.5,9,,,,,35.22,78,201.5
+Aflac Inc,AFL,,,,,,,4/11/2016,Narrow,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Strong,62.83,,,7/5/2022,C,D,C,0,,8,,,,,77.61,,
+Agilent Technologies Inc,A,7/5/2022,3,Active,115,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,123.09,,,7/5/2022,C,C,B,0,284.75,7,,,,,20.45,80.5,155.25
+Air Products & Chemicals Inc,APD,7/5/2022,4,Active,317,Medium,Exemplary,7/5/2022,Narrow,Positive,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Strong,285.74,,,7/5/2022,C,D,A,0,314.82,4,,,,,34.47,221.9,427.95
+Akamai Technologies Inc,AKAM,7/5/2022,3,Active,85,High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,100.03,,,7/5/2022,C,C,B,0,368.08,4,,,,,50.34,51,131.75
+Alaska Air Group Inc,ALK,,,,,,,8/22/2019,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,58.28,,,7/5/2022,D,D,C,0.01,588.28,8,,,,,45.06,,
+Albemarle Corp,ALB,7/5/2022,4,Active,320,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,284.32,,,7/5/2022,C,D,C,0,524.98,9,,,,,42.91,192,496
+Alexandria Real Estate Equities Inc,ARE,,,,,,,2/7/2013,Narrow,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,200.76,,,7/5/2022,C,C,B,0,563.47,5,,,,,36.45,,
+Align Technology Inc,ALGN,7/5/2022,,Under Review,,High,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,Very High,Moderate,371.13,,,7/5/2022,B,A,B,0,,10,,,,,2.97,,
+Allegion PLC,ALLE,7/5/2022,4,Active,132,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,120.84,,,7/5/2022,C,C,B,0,356.51,8,,,,,28.27,92.4,178.2
+Alliant Energy Corp,LNT,7/5/2022,2,Active,54,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,1,7/5/2022,Narrow,Overvalued,Low,Moderate,54.34,,,7/5/2022,C,C,B,0,646.27,9,,,,,64.57,43.2,67.5
+Allstate Corp,ALL,7/5/2022,3,Active,125,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,136.88,,,7/5/2022,B,D,D,0.09,,7,,,,,59.53,87.5,168.75
+Alphabet Inc Class A,GOOGL,7/5/2022,4,Active,"3,600.00",High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Strong,"3,030.49",,,7/5/2022,B,B,A,0,145.46,8,,,,,34.09,"2,160.00","5,580.00"
+Alphabet Inc Class C,GOOG,7/5/2022,4,Active,"3,600.00",High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Strong,"3,047.18",,,7/5/2022,B,B,A,0,145.46,8,,,,,35.12,"2,160.00","5,580.00"
+Altria Group Inc,MO,7/5/2022,4,Active,52,Medium,Poor,7/5/2022,Wide,Negative,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,45.12,,,7/5/2022,C,A,B,0,608.46,7,,,,,77.15,36.4,70.2
+Amazon.com Inc,AMZN,7/5/2022,5,Active,192,High,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,167.42,,,7/5/2022,B,B,B,0,428.62,8,,,,,19.65,115.2,297.6
+Amcor PLC Ordinary Shares,AMCR,,,,,Medium,,7/6/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,12,,,7/5/2022,C,D,B,,491.51,,,,,,,,
+Ameren Corp,AEE,7/5/2022,2,Active,83,Low,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,1,7/5/2022,None,Overvalued,Low,Moderate,83.14,,,7/5/2022,C,C,B,0,653.91,7,,,,,70.25,66.4,103.75
+American Airlines Group Inc,AAL,7/5/2022,4,Active,19,Very High,Poor,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Very High,Moderate,22.14,,,7/5/2022,D,,D,0.11,647.62,9,,,,,30.72,9.5,33.25
+American Electric Power Co Inc,AEP,7/5/2022,3,Active,91,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Low,Moderate,91.47,,,7/5/2022,C,C,B,0,666.07,8,,,,,77.36,72.8,113.75
+American Express Co,AXP,7/5/2022,4,Active,173,Medium,Standard,7/5/2022,Wide,Stable,No,No,No,Yes,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Strong,176.57,,,7/5/2022,C,B,C,0,,6,,,,,67.17,121.1,233.55
+American International Group Inc,AIG,7/5/2022,4,Active,65,Medium,Standard,7/5/2022,None,Positive,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,64.77,,,7/5/2022,C,B,C,0.01,,10,,,,,74.59,45.5,87.75
+American Tower Corp,AMT,7/5/2022,2,Active,210,High,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,Yes,7/5/2022,2,7/5/2022,Narrow,Overvalued,Medium,Moderate,227.04,,,7/5/2022,C,A,B,0,677.76,1,,,,,36.48,126,325.5
+American Water Works Co Inc,AWK,7/5/2022,2,Active,131,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,156.56,,,7/5/2022,C,C,B,0,597.62,6,,,,,36.83,104.8,163.75
+Ameriprise Financial Inc,AMP,7/5/2022,4,Active,338,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Strong,307.78,,,7/5/2022,C,A,C,0.01,,9,,,,,63.49,202.8,523.9
+AmerisourceBergen Corp,ABC,7/5/2022,3,Active,155,Medium,Standard,7/5/2022,Narrow,Negative,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,Medium,Strong,148.26,,,7/5/2022,C,,B,0,402.68,4,,,,,85.9,108.5,209.25
+AMETEK Inc,AME,7/5/2022,4,Active,136,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,124.62,,,7/5/2022,C,C,B,0,309,7,,,,,42.66,95.2,183.6
+Amgen Inc,AMGN,7/5/2022,3,Active,260,High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,237.13,,,7/5/2022,C,A,A,0,449.45,7,,,,,70.53,156,403
+Amphenol Corp Class A,APH,7/5/2022,4,Active,83,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,75.4,,,7/5/2022,C,A,A,0,293.47,7,,,,,47.72,58.1,112.05
+Analog Devices Inc,ADI,7/5/2022,4,Active,172,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Moderate,164.19,,,7/5/2022,C,D,B,0,368.89,4,,,,,46.74,120.4,232.2
+Ansys Inc,ANSS,7/5/2022,3,Active,242,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,270.24,,,7/5/2022,B,D,B,0,283.17,8,,,,,16.47,169.4,326.7
+Aon PLC Class A,AON,7/5/2022,3,Active,250,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,3,7/5/2022,Wide,Overvalued,Medium,Moderate,260.25,,,7/5/2022,C,A,B,0,521.46,9,,,,,59.29,175,337.5
+APA Corp,APA,7/5/2022,3,Active,35,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,38.62,,,7/5/2022,C,,C,0.01,927.4,10,,,,,99.41,21,54.25
+Apple Inc,AAPL,7/5/2022,3,Active,130,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,151.75,,,7/5/2022,B,A,A,0,324.66,6,,,,,69.17,78,201.5
+Applied Materials Inc,AMAT,7/5/2022,4,Active,142,High,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,145.19,,,7/5/2022,B,A,B,0,220.28,7,,,,,31.3,85.2,220.1
+Aptiv PLC,APTV,7/5/2022,4,Active,141,High,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,141.35,,,7/5/2022,C,D,C,0,547.39,9,,,,,8.68,84.6,218.55
+Archer-Daniels Midland Co,ADM,7/5/2022,3,Active,65,High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,78.29,,,7/5/2022,C,C,C,0,429.5,8,,,,,95.6,39,100.75
+Arista Networks Inc,ANET,7/5/2022,3,Active,105,High,Exemplary,7/5/2022,Narrow,Positive,No,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,108.49,,,7/5/2022,B,C,B,0,114.82,8,,,,,69.71,63,162.75
+Arthur J. Gallagher & Co,AJG,,,,,,,10/25/2010,Narrow,,,,,,,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,160.79,,,7/5/2022,C,C,C,0,561.05,5,,,,,70.5,,
+Assurant Inc,AIZ,,,,,,,4/11/2016,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Strong,181.71,,,7/5/2022,C,B,B,0,,4,,,,,69.14,,
+AT&T Inc,T,7/5/2022,4,Active,25,High,Poor,7/5/2022,Narrow,Stable,Yes,Yes,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,25.5,,,7/5/2022,C,D,C,0,613.1,7,,,,,49.86,15,38.75
+Atmos Energy Corp,ATO,7/5/2022,2,Active,102,Low,Exemplary,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,1,7/5/2022,Narrow,Fairly Valued,Low,Moderate,105.2,,,7/5/2022,C,D,B,0,538.37,6,,,,,85.37,81.6,127.5
+Autodesk Inc,ADSK,7/5/2022,4,Active,230,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,No,Yes,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,224.53,,,7/5/2022,B,,B,0,507.92,8,,,,,9.45,161,310.5
+Automatic Data Processing Inc,ADP,7/5/2022,3,Active,228,Medium,Standard,7/5/2022,Wide,Negative,Yes,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Strong,206.05,,,7/5/2022,C,A,B,0,336.09,6,,,,,55.13,159.6,307.8
+AutoZone Inc,AZO,7/5/2022,2,Active,"1,770.00",Medium,Exemplary,7/5/2022,Narrow,Positive,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,"2,036.46",,,7/5/2022,B,,B,0,,5,,,,,81.93,"1,239.00","2,389.50"
+AvalonBay Communities Inc,AVB,7/5/2022,4,Active,234,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,224.73,,,7/5/2022,C,C,B,0,463.39,8,,,,,56.4,163.8,315.9
+Avery Dennison Corp,AVY,7/5/2022,2,Active,140,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,164.95,,,7/5/2022,C,A,B,0,403.31,6,,,,,26.18,98,189
+Baker Hughes Co Class A,BKR,7/5/2022,3,Active,31,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,31.72,,,7/5/2022,D,F,C,0,579.87,,,,,,95.25,18.6,48.05
+Ball Corp,BALL,7/5/2022,3,Active,63,High,Standard,7/5/2022,Narrow,Stable,No,Yes,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,77.58,,,7/5/2022,C,B,B,0,529.31,3,,,,,41.68,37.8,97.65
+Bank of America Corp,BAC,7/5/2022,4,Active,41,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,42.52,,,7/5/2022,C,C,C,0.04,,8,,,,,43.67,28.7,55.35
+Bank of New York Mellon Corp,BK,7/5/2022,4,Active,56,Medium,Standard,7/5/2022,Wide,Negative,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Strong,57.48,,,7/5/2022,C,D,D,0.25,,7,,,,,37.91,39.2,75.6
+Bath & Body Works Inc,BBWI,7/5/2022,5,Active,86,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,Extreme,Moderate,63.26,,,7/5/2022,D,,C,0.04,,8,,,,,8.04,60.2,116.1
+Baxter International Inc,BAX,7/5/2022,4,Active,90,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,77.71,,,7/5/2022,C,C,C,0,547.77,7,,,,,54.44,63,121.5
+"Becton, Dickinson and Co",BDX,7/5/2022,4,Active,306,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,258.99,,,7/5/2022,C,C,B,0,514.01,6,,,,,63.08,214.2,413.1
+Berkshire Hathaway Inc Class B,BRK.B,7/5/2022,4,Active,367,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Strong,343.59,,,7/5/2022,B,C,B,0,,6,,,,,79.55,256.9,495.45
+Best Buy Co Inc,BBY,7/5/2022,5,Active,126,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,120.25,,,7/5/2022,C,A,C,0,318.49,8,,,,,16.17,75.6,195.3
+Biogen Inc,BIIB,7/5/2022,5,Active,343,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,289.03,,,7/5/2022,C,C,B,0,408.94,8,,,,,22.56,205.8,531.65
+Bio-Rad Laboratories Inc Class A,BIO,7/5/2022,3,Active,524,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,605.11,,,7/5/2022,C,A,B,0,547.25,6,,,,,9.4,314.4,812.2
+Bio-Techne Corp,TECH,7/5/2022,3,Active,320,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Overvalued,Medium,Moderate,335.73,,,7/5/2022,C,C,A,0,230.32,6,,,,,14.48,192,496
+BlackRock Inc,BLK,7/5/2022,4,Active,850,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,840.42,,,7/5/2022,B,C,C,0,309.15,8,,,,,16.64,595,"1,147.50"
+Boeing Co,BA,7/5/2022,5,Active,239,High,Standard,7/5/2022,Wide,Negative,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,223.11,,,7/5/2022,D,,C,0.01,333.75,7,,,,,17.82,143.4,370.45
+Booking Holdings Inc,BKNG,7/5/2022,4,Active,"3,000.00",High,Exemplary,7/5/2022,Narrow,Positive,No,No,No,Yes,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Very High,Moderate,"2,341.26",,,7/5/2022,D,C,B,0,664.97,6,,,,,48.58,"1,800.00","4,650.00"
+BorgWarner Inc,BWA,7/5/2022,5,Active,73,High,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,Very High,Moderate,53.84,,,7/5/2022,C,D,C,0,447.98,8,,,,,33.28,43.8,113.15
+Boston Properties Inc,BXP,7/5/2022,4,Active,120,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,115.87,,,7/5/2022,C,C,B,0,629.96,9,,,,,61.34,72,186
+Boston Scientific Corp,BSX,7/5/2022,4,Active,45,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Moderate,41.69,,,7/5/2022,C,D,B,0,572.58,5,,,,,50.64,31.5,60.75
+Bristol-Myers Squibb Co,BMY,7/5/2022,2,Active,68,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Overvalued,Medium,Strong,71.15,,,7/5/2022,B,D,B,0,464.16,4,,,,,77.25,47.6,91.8
+Broadcom Inc,AVGO,7/5/2022,4,Active,624,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,541.16,,,7/5/2022,C,C,B,0,398.18,4,,,,,73.56,436.8,842.4
+Broadridge Financial Solutions Inc,BR,7/5/2022,4,Active,175,Low,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,155.28,,,7/5/2022,C,A,B,0,450.29,6,,,,,31,140,218.75
+Brown & Brown Inc,BRO,,,,,,,10/25/2010,Narrow,,,,,,,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,63.42,,,7/5/2022,B,C,B,0,430.33,10,,,,,71.82,,
+Brown-Forman Corp Registered Shs -B- Non Vtg,BF.B,7/5/2022,3,Active,75,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,High,Strong,64.53,,,7/5/2022,C,C,A,0,296.81,4,,,,,50.58,52.5,101.25
+C.H. Robinson Worldwide Inc,CHRW,7/5/2022,3,Active,98,Medium,Exemplary,7/5/2022,Wide,Negative,No,No,No,Yes,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,103.12,,,7/5/2022,B,C,B,0,332.46,4,,,,,77.74,68.6,132.3
+Cadence Design Systems Inc,CDNS,7/5/2022,3,Active,146,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,156.2,,,7/5/2022,B,A,A,0,193.38,7,,,,,44.95,87.6,226.3
+Caesars Entertainment Inc,CZR,7/5/2022,5,Active,100,High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,98.59,,,7/5/2022,B,F,D,0.11,862.33,9,,,,,6.23,60,155
+Camden Property Trust,CPT,,,,,,,12/6/2010,None,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,150.82,,,7/5/2022,C,C,B,0,443.44,7,,,,,56.43,,
+Campbell Soup Co,CPB,7/5/2022,3,Active,52,Medium,Standard,7/5/2022,Wide,Negative,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Fairly Valued,Medium,Moderate,50.48,,,7/5/2022,C,A,B,0,500.61,6,,,,,74.04,36.4,70.2
+Capital One Financial Corp,COF,7/5/2022,4,Active,161,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Strong,169.7,,,7/5/2022,C,B,C,0.02,,8,,,,,29.57,96.6,249.55
+Cardinal Health Inc,CAH,7/5/2022,3,Active,52,Medium,Standard,7/5/2022,Narrow,Negative,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,51.86,,,7/5/2022,C,F,C,0,915.52,7,,,,,68.24,36.4,70.2
+CarMax Inc,KMX,7/5/2022,4,Active,155,High,Standard,7/5/2022,Narrow,Positive,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,152.03,,,7/5/2022,B,C,C,0,695.06,9,,,,,12.37,93,240.25
+Carnival Corp Shs Paired with 1 sh of beneficial interest from P&O Princess,CCL,7/5/2022,5,Active,24,High,Poor,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,24,,,7/5/2022,F,F,D,0.16,957.97,10,,,,,15.09,14.4,37.2
+Carrier Global Corp Ordinary Shares,CARR,7/5/2022,4,Active,48,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,Medium,Moderate,47.89,,,7/5/2022,C,C,B,0,368.91,,,,,,13.98,28.8,74.4
+Catalent Inc,CTLT,7/5/2022,2,Active,98,Medium,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,112.56,,,7/5/2022,C,C,B,0,443.49,7,,,,,19.9,68.6,132.3
+Caterpillar Inc,CAT,7/5/2022,3,Active,189,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Moderate,195.02,,,7/5/2022,C,A,B,0,405.84,6,,,,,56.13,113.4,292.95
+Cboe Global Markets Inc,CBOE,,,,,,,1/20/2015,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Strong,120.32,,,7/5/2022,B,D,B,0,385.47,6,,,,,41.06,,
+CBRE Group Inc Class A,CBRE,7/5/2022,4,Active,100,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,Medium,Moderate,99.63,,,7/5/2022,C,C,B,0,308.02,8,,,,,36.64,60,155
+CDW Corp,CDW,,,,,,,1/29/2016,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,161.09,,,7/5/2022,B,A,B,0,447.42,7,,,,,39.52,,
+Celanese Corp Class A,CE,7/5/2022,4,Active,165,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,149.15,,,7/5/2022,B,A,B,0,274.04,9,,,,,39,115.5,222.75
+Centene Corp,CNC,7/5/2022,3,Active,95,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,95.58,,,7/5/2022,B,D,B,0,653.8,4,,,,,84.32,57,147.25
+CenterPoint Energy Inc,CNP,7/5/2022,2,Active,28,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,2,7/5/2022,Narrow,Fairly Valued,Low,Moderate,28.2,,,7/5/2022,D,D,B,0,586.5,10,,,,,83.05,22.4,35
+Ceridian HCM Holding Inc,CDAY,7/5/2022,4,Active,80,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,78.74,,,7/5/2022,C,F,C,0.02,877.49,,,,,,2.74,48,124
+CF Industries Holdings Inc,CF,7/5/2022,3,Active,75,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,High,Moderate,83.64,,,7/5/2022,B,B,C,0,286.24,5,,,,,98.65,45,116.25
+Charles River Laboratories International Inc,CRL,7/5/2022,4,Active,260,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,301.12,,,7/5/2022,B,C,C,0,436.39,7,,,,,5.15,182,351
+Charles Schwab Corp,SCHW,7/5/2022,4,Active,84,High,Exemplary,7/5/2022,Wide,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,Very High,Strong,82.01,,,7/5/2022,C,D,D,0.07,,6,,,,,60.68,50.4,130.2
+Charter Communications Inc Class A,CHTR,7/5/2022,4,Active,610,High,Standard,7/5/2022,Narrow,Stable,Yes,Yes,No,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,694.67,,,7/5/2022,B,C,C,0,691.87,9,,,,,11.36,366,945.5
+Chevron Corp,CVX,7/5/2022,3,Active,142,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Low,Moderate,152.66,,,7/5/2022,C,D,B,0,293.13,8,,,,,97.56,85.2,220.1
+Chipotle Mexican Grill Inc,CMG,7/5/2022,3,Active,"1,530.00",High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,"1,436.01",,,7/5/2022,B,B,B,0,,6,,,,,21.84,918,"2,371.50"
+Chubb Ltd,CB,7/5/2022,3,Active,193,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,Low,Moderate,203.56,,,7/5/2022,C,C,B,0,,7,,,,,44.92,135.1,260.55
+Church & Dwight Co Inc,CHD,7/5/2022,1,Active,58,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,1,7/5/2022,Narrow,Overvalued,High,Strong,75.67,,,7/5/2022,C,C,A,0,390.57,4,,,,,76.65,40.6,78.3
+Cigna Corp,CI,7/5/2022,4,Active,299,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,Yes,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Low,Moderate,292,,,7/5/2022,A,C,B,0,,5,,,,,79.78,209.3,403.65
+Cincinnati Financial Corp,CINF,,,,,,,12/23/2013,None,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Strong,130.35,,,7/5/2022,B,B,B,0,,6,,,,,66.71,,
+Cintas Corp,CTAS,7/5/2022,2,Active,283,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,No,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,High,Moderate,326.21,,,6/30/2022,C,A,,,339.98,8,,,,,51.92,198.1,382.05
+Cisco Systems Inc,CSCO,7/5/2022,4,Active,54,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Strong,55.25,,,7/5/2022,C,B,B,0,263.39,6,,,,,39.05,37.8,72.9
+Citigroup Inc,C,7/5/2022,5,Active,78,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Strong,66.44,,,7/5/2022,C,B,D,0.33,,10,,,,,24.84,54.6,105.3
+Citizens Financial Group Inc,CFG,,,,,,,,,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Strong,49.16,,,7/5/2022,C,C,C,0.04,,10,,,,,55.13,,
+Citrix Systems Inc,CTXS,7/5/2022,3,Active,104,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,107.22,,,7/5/2022,C,A,B,0,641.92,3,,,,,61.48,72.8,140.4
+Clorox Co,CLX,7/5/2022,4,Active,161,Low,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,155.83,,,7/5/2022,C,B,B,0,518.59,5,,,,,35.3,128.8,201.25
+CME Group Inc Class A,CME,7/5/2022,3,Active,212,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,217.89,,,7/5/2022,C,D,C,0,479.29,3,,,,,71.31,148.4,286.2
+CMS Energy Corp,CMS,7/5/2022,1,Active,53,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,1,7/5/2022,Narrow,Overvalued,Low,Moderate,60.28,,,7/5/2022,C,C,B,0,568.51,7,,,,,73.52,42.4,66.25
+Coca-Cola Co,KO,7/5/2022,2,Active,58,Low,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,1,7/5/2022,Wide,Overvalued,Low,Strong,58.08,,,7/5/2022,C,A,A,0,414.53,6,,,,,79.61,46.4,72.5
+Cognizant Technology Solutions Corp Class A,CTSH,7/5/2022,5,Active,102,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Strong,90.46,,,7/5/2022,C,C,B,0,201,7,,,,,65.89,71.4,137.7
+Colgate-Palmolive Co,CL,7/5/2022,2,Active,75,Low,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,1,7/5/2022,Wide,Overvalued,Low,Strong,72.38,,,7/5/2022,C,A,A,0,377.56,6,,,,,58.92,60,93.75
+Comcast Corp Class A,CMCSA,7/5/2022,5,Active,60,Medium,Standard,7/5/2022,Wide,Stable,Yes,Yes,No,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,58.37,,,7/5/2022,C,D,B,0,522.6,8,,,,,25.67,42,81
+Comerica Inc,CMA,7/5/2022,4,Active,89,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,None,Undervalued,High,Strong,92.9,,,7/5/2022,C,C,C,0.04,,9,,,,,74.11,62.3,120.15
+Conagra Brands Inc,CAG,7/5/2022,4,Active,44,Medium,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,39.19,,,7/5/2022,C,C,B,0,589.49,7,,,,,65.46,30.8,59.4
+ConocoPhillips,COP,7/5/2022,3,Active,96,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,98.21,,,7/5/2022,C,C,B,0,260.77,7,,,,,97.56,57.6,148.8
+Consolidated Edison Inc,ED,7/5/2022,2,Active,86,Low,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,2,7/5/2022,None,Fairly Valued,Low,Moderate,90.1,,,7/5/2022,C,D,B,0,666.88,6,,,,,88.49,68.8,107.5
+Constellation Brands Inc Class A,STZ,7/5/2022,4,Active,269,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,229.31,,,7/5/2022,C,D,A,0,508.99,8,,,,,68.43,188.3,363.15
+Constellation Energy Corp,CEG,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,58.11,,,7/5/2022,C,B,C,0.01,560.58,,,,,,,,
+Copart Inc,CPRT,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Strong,114.9,,,7/5/2022,B,C,B,0,118.64,5,,,,,17.61,,
+Corning Inc,GLW,7/5/2022,4,Active,42,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,Medium,Moderate,38.61,,,7/5/2022,C,B,B,0,478.61,6,,,,,54.36,29.4,56.7
+Corteva Inc,CTVA,7/5/2022,3,Active,55,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Strong,58.07,,,7/5/2022,C,B,B,0,380.92,,,,,,89.33,38.5,74.25
+Costco Wholesale Corp,COST,7/5/2022,3,Active,471,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Strong,491.37,,,7/5/2022,C,A,B,0,333.24,5,,,,,70.57,329.7,635.85
+Coterra Energy Inc Ordinary Shares,CTRA,7/5/2022,4,Active,32,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,30.18,,,7/5/2022,B,C,D,0.18,243.06,3,,,,,96.9,19.2,49.6
+Crown Castle International Corp,CCI,7/5/2022,2,Active,135,High,Poor,7/5/2022,Narrow,Stable,No,Yes,No,No,Yes,7/5/2022,2,7/5/2022,Narrow,Overvalued,Medium,Moderate,149.75,,,7/5/2022,C,B,B,0,682.37,2,,,,,48.35,81,209.25
+CSX Corp,CSX,7/5/2022,3,Active,32,Medium,Standard,7/5/2022,Wide,Stable,Yes,Yes,No,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Moderate,31.87,,,7/5/2022,C,C,B,0,410.38,9,,,,,60.19,22.4,43.2
+Cummins Inc,CMI,7/5/2022,4,Active,238,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,224.39,,,7/5/2022,C,C,B,0,329.19,6,,,,,38.84,166.6,321.3
+CVS Health Corp,CVS,7/5/2022,4,Active,108,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,Low,Moderate,104.5,,,7/5/2022,C,C,B,0,607.86,9,,,,,80.68,75.6,145.8
+D.R. Horton Inc,DHI,7/5/2022,4,Active,107,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,114.16,,,7/5/2022,B,B,B,0,337.4,9,,,,,20.19,64.2,165.85
+Danaher Corp,DHR,7/5/2022,2,Active,200,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Overvalued,High,Moderate,241.75,,,7/5/2022,B,C,B,0,314.5,5,,,,,28.72,140,270
+Darden Restaurants Inc,DRI,7/5/2022,3,Active,134,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,136.21,,,7/5/2022,C,C,B,0,506,6,,,,,39.39,80.4,207.7
+DaVita Inc,DVA,7/5/2022,4,Active,116,High,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,115.09,,,7/5/2022,B,A,C,0,551.62,8,,,,,36.56,69.6,179.8
+Deere & Co,DE,7/5/2022,3,Active,294,High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,338.73,,,7/5/2022,C,A,C,0,693.12,5,,,,,64.76,176.4,455.7
+Delta Air Lines Inc,DAL,7/5/2022,4,Active,55,Very High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,45.6,,,7/5/2022,D,F,C,0.02,848.16,7,,,,,49.08,27.5,96.25
+Dentsply Sirona Inc,XRAY,,,,,,,4/15/2021,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,53.28,,,7/5/2022,C,F,B,0,429.82,8,,,,,15.1,,
+Devon Energy Corp,DVN,7/5/2022,2,Active,48,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,55.06,,,7/5/2022,C,C,C,0,302.79,10,,,,,99.36,33.6,64.8
+DexCom Inc,DXCM,7/5/2022,3,Active,81,High,Exemplary,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,89.41,,,7/5/2022,B,B,B,0,529.28,5,,,,,8.9,48.6,125.55
+Diamondback Energy Inc,FANG,7/5/2022,3,Active,124,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,127.37,,,7/5/2022,B,D,C,0,324.77,8,,,,,95.5,74.4,192.2
+Digital Realty Trust Inc,DLR,7/5/2022,3,Active,133,High,Standard,7/5/2022,Narrow,Positive,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,144.99,,,7/5/2022,C,B,B,0,586.24,4,,,,,33.26,79.8,206.15
+Discover Financial Services,DFS,7/5/2022,4,Active,142,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,130.17,,,7/5/2022,C,A,C,0,,7,,,,,45.66,85.2,220.1
+DISH Network Corp Class A,DISH,7/5/2022,5,Active,38,Very High,Poor,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,39.11,,,7/5/2022,C,D,D,0.11,510.21,10,,,,,7.54,19,66.5
+Dollar General Corp,DG,7/5/2022,2,Active,212,Medium,Standard,7/5/2022,Narrow,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Overvalued,Medium,Moderate,235.13,,,7/5/2022,B,A,B,0,442.49,2,,,,,52.39,148.4,286.2
+Dollar Tree Inc,DLTR,7/5/2022,1,Active,117,Medium,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Overvalued,High,Moderate,146.12,,,7/5/2022,C,C,B,0,437.46,5,,,,,94.58,81.9,157.95
+Dominion Energy Inc,D,7/5/2022,3,Active,82,Low,Standard,7/5/2022,Wide,Stable,No,Yes,No,No,No,7/5/2022,2,7/5/2022,Wide,Fairly Valued,Low,Moderate,77.03,,,7/5/2022,C,D,B,0,643.07,7,,,,,73.23,65.6,102.5
+Domino's Pizza Inc,DPZ,7/5/2022,3,Active,400,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,429.46,,,7/5/2022,B,,B,0,,3,,,,,13.71,280,540
+Dover Corp,DOV,7/5/2022,4,Active,169,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,155.73,,,7/5/2022,C,C,B,0,337.69,8,,,,,31.29,118.3,228.15
+Dow Inc,DOW,,,,,,,,,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,60.45,,,7/5/2022,C,B,B,0,335.05,,,,,,65.93,,
+DTE Energy Co,DTE,7/5/2022,2,Active,114,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,2,7/5/2022,Narrow,Fairly Valued,Low,Moderate,118.17,,,7/5/2022,C,D,B,0,756.97,9,,,,,74.41,91.2,142.5
+Duke Energy Corp,DUK,7/5/2022,2,Active,101,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,2,7/5/2022,Narrow,Fairly Valued,Low,Moderate,103.24,,,7/5/2022,C,D,B,0,699.1,6,,,,,68.36,80.8,126.25
+Duke Realty Corp,DRE,7/5/2022,3,Active,53,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,High,Moderate,57.96,,,7/5/2022,C,D,B,0,284.29,5,,,,,62.82,31.8,82.15
+DuPont de Nemours Inc,DD,7/5/2022,5,Active,100,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,82.9,,,7/5/2022,C,B,B,0,455.03,9,,,,,49.51,70,135
+DXC Technology Co Registered Shs When Issued,DXC,,,,,,,11/7/2019,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,42.49,,,7/5/2022,D,F,C,0.01,534.44,10,,,,,44.33,,
+Eastman Chemical Co,EMN,7/5/2022,5,Active,140,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,123.1,,,7/5/2022,C,D,C,0,477.08,8,,,,,58.21,98,189
+Eaton Corp PLC,ETN,7/5/2022,4,Active,154,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,Medium,Moderate,146.71,,,7/5/2022,C,D,B,0,411.36,7,,,,,38.07,107.8,207.9
+eBay Inc,EBAY,7/5/2022,5,Active,65,Medium,Standard,7/5/2022,Narrow,Negative,No,No,No,Yes,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,65.07,,,7/5/2022,B,A,C,0,478.69,6,,,,,10.53,45.5,87.75
+Ecolab Inc,ECL,7/5/2022,4,Active,215,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,No,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,187.15,,,7/5/2022,C,D,B,0,489.53,6,,,,,14,150.5,290.25
+Edison International,EIX,7/5/2022,4,Active,72,Medium,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,Medium,Moderate,64.85,,,7/5/2022,C,C,B,0,782.42,9,,,,,78.92,50.4,97.2
+Edwards Lifesciences Corp,EW,7/5/2022,3,Active,96,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Strong,95.93,,,7/5/2022,B,C,B,0,155.35,6,,,,,40.89,57.6,148.8
+Electronic Arts Inc,EA,7/5/2022,3,Active,142,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Strong,129.34,,,7/5/2022,C,D,B,0,383.56,7,,,,,42.35,85.2,220.1
+Elevance Health Inc,ELV,7/5/2022,3,Active,452,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,Yes,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,494.29,,,7/5/2022,B,C,B,0,,3,,,,,86.76,316.4,610.2
+Eli Lilly and Co,LLY,7/5/2022,2,Active,262,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Moderate,289.81,,,7/5/2022,B,A,A,0,344.02,3,,,,,74.63,183.4,353.7
+Emerson Electric Co,EMR,7/5/2022,4,Active,113,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,93.29,,,7/5/2022,C,C,B,0,338.48,9,,,,,46.42,79.1,152.55
+Enphase Energy Inc,ENPH,7/5/2022,2,Active,132,Very High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,Very High,Moderate,192.53,,,7/5/2022,A,A,C,0,480.77,3,,,,,41.44,66,231
+Entergy Corp,ETR,7/5/2022,3,Active,115,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,111.54,,,7/5/2022,C,C,B,0,734.78,8,,,,,73.57,92,143.75
+EOG Resources Inc,EOG,7/5/2022,3,Active,106,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,108.09,,,7/5/2022,C,C,B,0,262.92,8,,,,,98.33,74.2,143.1
+EPAM Systems Inc,EPAM,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,Very High,Moderate,518.88,,,7/5/2022,B,C,C,0,,9,,,,,2.75,,
+Equifax Inc,EFX,7/5/2022,5,Active,325,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Very High,Moderate,254.54,,,7/5/2022,C,C,B,0,526.14,9,,,,,15.75,227.5,438.75
+Equinix Inc,EQIX,7/5/2022,2,Active,560,High,Exemplary,7/5/2022,Narrow,Stable,No,No,No,Yes,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,652.1,,,7/5/2022,C,D,B,0,597.75,3,,,,,31.14,336,868
+Equity Residential,EQR,7/5/2022,4,Active,88,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,82.12,,,7/5/2022,C,C,B,0,500.39,7,,,,,56.94,61.6,118.8
+Essex Property Trust Inc,ESS,7/5/2022,4,Active,322,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,307.46,,,7/5/2022,C,C,B,0,583.66,4,,,,,45.89,225.4,434.7
+Etsy Inc,ETSY,7/5/2022,5,Active,195,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,Yes,No,7/5/2022,3,7/5/2022,Wide,Undervalued,Very High,Moderate,158.35,,,7/5/2022,A,A,C,0.01,310.31,7,,,,,3.22,117,302.25
+Everest Re Group Ltd,RE,,,,,,,10/25/2010,None,,,,,,,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,301.75,,,7/5/2022,B,B,C,0,,3,,,,,76.96,,
+Evergy Inc,EVRG,7/5/2022,3,Active,62,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Low,Moderate,62.91,,,7/5/2022,C,C,B,0,675.49,9,,,,,61.18,49.6,77.5
+Eversource Energy,ES,7/5/2022,2,Active,71,Low,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,1,7/5/2022,None,Overvalued,Low,Moderate,78.36,,,7/5/2022,C,C,B,0,684.73,8,,,,,59.56,56.8,88.75
+Exelon Corp,EXC,7/5/2022,2,Active,41,Low,Standard,7/5/2022,Narrow,Stable,Yes,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,44.1,,,7/5/2022,C,D,C,0.03,651.94,9,,,,,90.22,32.8,51.25
+Expedia Group Inc,EXPE,7/5/2022,5,Active,175,High,Standard,7/5/2022,Narrow,Stable,No,No,No,Yes,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,158.83,,,7/5/2022,D,F,C,0.03,717.87,7,,,,,57.65,105,271.25
+Expeditors International of Washington Inc,EXPD,7/5/2022,3,Active,104,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,No,Yes,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Strong,113.08,,,7/5/2022,B,A,B,0,,6,,,,,24.13,72.8,140.4
+Extra Space Storage Inc,EXR,7/5/2022,3,Active,185,High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,Medium,Moderate,178.8,,,7/5/2022,C,C,B,0,557.22,3,,,,,58.82,111,286.75
+Exxon Mobil Corp,XOM,7/5/2022,3,Active,96,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,93.48,,,7/5/2022,C,D,B,0,338.34,7,,,,,97.69,57.6,148.8
+F5 Inc,FFIV,7/5/2022,4,Active,210,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Strong,196.73,,,7/5/2022,C,D,B,0,,7,,,,,32.34,126,325.5
+FactSet Research Systems Inc,FDS,7/5/2022,2,Active,340,Medium,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Wide,Overvalued,High,Moderate,373.26,,,7/5/2022,C,C,B,0,207.27,6,,,,,56.24,238,459
+Fastenal Co,FAST,7/5/2022,2,Active,44.5,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,No,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Strong,46.37,,,7/5/2022,C,A,A,0,141.46,7,,,,,52.5,31.15,60.08
+Federal Realty Investment Trust,FRT,7/5/2022,4,Active,138,High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,121.74,,,7/5/2022,C,D,B,0,599.73,7,,,,,50.8,82.8,213.9
+FedEx Corp,FDX,7/5/2022,3,Active,258,High,Standard,7/5/2022,Narrow,Negative,Yes,Yes,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,257.12,,,7/5/2022,C,C,C,0,451.95,8,,,,,41.26,154.8,399.9
+Fidelity National Information Services Inc,FIS,7/5/2022,5,Active,137,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,Medium,Moderate,134.46,,,7/5/2022,D,D,B,0,553.6,5,,,,,33.16,95.9,184.95
+Fifth Third Bancorp,FITB,7/5/2022,4,Active,45,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Strong,46.03,,,7/5/2022,C,D,C,0.01,,9,,,,,62.7,31.5,60.75
+First Republic Bank,FRC,7/5/2022,4,Active,185,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,202.84,,,7/5/2022,B,C,C,0.02,,9,,,,,15.29,129.5,249.75
+FirstEnergy Corp,FE,7/5/2022,4,Active,42,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,41.01,,,7/5/2022,D,B,B,0,728.43,9,,,,,79.51,33.6,52.5
+Fiserv Inc,FISV,7/5/2022,4,Active,129,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,Medium,Moderate,114.14,,,7/5/2022,B,D,B,0,586.91,6,,,,,40.61,90.3,174.15
+Fleetcor Technologies Inc,FLT,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,239.41,,,7/5/2022,C,C,B,0,482.33,6,,,,,48.37,,
+FMC Corp,FMC,7/5/2022,4,Active,140,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,122.68,,,7/5/2022,B,C,B,0,448.77,6,,,,,84.42,98,189
+Ford Motor Co,F,7/5/2022,5,Active,24,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,22.85,,,7/5/2022,D,B,C,0.05,640.82,9,,,,,54.89,14.4,37.2
+Fortinet Inc,FTNT,7/5/2022,4,Active,68,High,Standard,7/5/2022,Wide,Positive,No,No,No,Yes,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,68.23,,,7/5/2022,B,A,B,0,310,7,,,,,57.18,40.8,105.4
+Fortive Corp,FTV,7/5/2022,5,Active,85,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,75.89,,,7/5/2022,C,D,B,0,470.46,6,,,,,23.6,59.5,114.75
+Fortune Brands Home & Security Inc,FBHS,7/5/2022,5,Active,99,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,92.23,,,7/5/2022,B,C,C,0,367.16,9,,,,,15.78,69.3,133.65
+Fox Corp Class A,FOXA,7/5/2022,4,Active,43,High,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,42.74,,,7/5/2022,C,D,B,0,438.76,,,,,,60.49,25.8,66.65
+Fox Corp Class B,FOX,7/5/2022,4,Active,43,High,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,39.47,,,7/5/2022,C,D,B,0,438.76,,,,,,58.59,25.8,66.65
+Franklin Resources Inc,BEN,7/5/2022,4,Active,29,High,Exemplary,7/5/2022,Narrow,Negative,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,30.64,,,7/5/2022,C,C,C,0,367.15,8,,,,,36.19,17.4,44.95
+Freeport-McMoRan Inc,FCX,,,,,,,2/6/2019,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,Very High,Moderate,42.83,,,7/5/2022,C,C,C,0,248.36,8,,,,,65.88,,
+Garmin Ltd,GRMN,7/5/2022,5,Active,150,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Strong,142.09,,,7/5/2022,B,C,A,0,,7,,,,,75.1,105,202.5
+Gartner Inc,IT,,,,,,,8/14/2009,Narrow,,,,,,,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,266.87,,,7/5/2022,C,A,B,0,461.06,9,,,,,38.51,,
+Generac Holdings Inc,GNRC,7/5/2022,4,Active,275,High,Standard,7/5/2022,Narrow,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,316.73,,,7/5/2022,B,C,C,0,305.92,8,,,,,4.68,165,426.25
+General Dynamics Corp,GD,7/5/2022,3,Active,215,Medium,Standard,7/5/2022,Wide,Stable,No,Yes,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,218.51,,,7/5/2022,C,C,B,0,417.35,6,,,,,82.61,150.5,290.25
+General Electric Co,GE,7/5/2022,5,Active,126,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,Very High,Moderate,102.21,,,7/5/2022,D,F,C,0.02,867.39,8,,,,,20.3,75.6,195.3
+General Mills Inc,GIS,7/5/2022,2,Active,70,Low,Standard,7/5/2022,Narrow,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,75.59,,,7/5/2022,C,C,B,0,473.08,4,,,,,82.84,56,87.5
+General Motors Co,GM,7/5/2022,5,Active,70,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,64.82,,,7/5/2022,D,B,C,0.03,535.7,7,,,,,16.43,42,108.5
+Genuine Parts Co,GPC,7/5/2022,3,Active,137,Medium,Standard,7/5/2022,Narrow,Positive,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,133.44,,,7/5/2022,C,C,B,0,411.49,5,,,,,61.74,95.9,184.95
+Gilead Sciences Inc,GILD,7/5/2022,4,Active,81,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,70.17,,,7/5/2022,C,C,B,0,460.16,4,,,,,42.13,56.7,109.35
+Global Payments Inc,GPN,7/5/2022,5,Active,186,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,165.14,,,7/5/2022,C,D,C,0,547.21,6,,,,,36.22,130.2,251.1
+Globe Life Inc,GL,,,,,,,4/11/2016,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,104.47,,,7/5/2022,C,D,B,0,,8,,,,,72.93,,
+Halliburton Co,HAL,7/5/2022,3,Active,33,High,Exemplary,7/5/2022,Narrow,Negative,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,33.84,,,7/5/2022,D,F,C,0,477.87,8,,,,,99.09,19.8,51.15
+Hasbro Inc,HAS,7/5/2022,4,Active,103,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,92.93,,,7/5/2022,C,D,B,0,532.58,7,,,,,44.39,72.1,139.05
+HCA Healthcare Inc,HCA,7/5/2022,4,Active,239,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,226.69,,,7/5/2022,C,,C,0,,9,,,,,39.2,143.4,370.45
+Healthpeak Properties Inc,PEAK,7/5/2022,4,Active,36,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,34.83,,,7/5/2022,C,D,B,0,652.49,3,,,,,38.14,25.2,48.6
+Henry Schein Inc,HSIC,,,,,,,4/15/2021,None,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,83.31,,,7/5/2022,B,C,B,0,294.32,8,,,,,68.51,,
+Hess Corp,HES,7/5/2022,3,Active,89,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,94.13,,,7/5/2022,C,F,C,0,544.9,7,,,,,94.95,53.4,137.95
+Hewlett Packard Enterprise Co,HPE,7/5/2022,3,Active,14,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,15.99,,,7/5/2022,C,B,C,0,405.53,6,,,,,69.77,8.4,21.7
+Hilton Worldwide Holdings Inc,HLT,7/5/2022,4,Active,128,Medium,Standard,7/5/2022,Narrow,Positive,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,126.24,,,7/5/2022,D,,C,0,590.7,8,,,,,65.38,89.6,172.8
+Hologic Inc,HOLX,7/5/2022,3,Active,70,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Low,Strong,72.46,,,7/5/2022,B,B,B,0,233.42,8,,,,,47.85,49,94.5
+Honeywell International Inc,HON,7/5/2022,4,Active,231,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,190.38,,,7/5/2022,C,A,B,0,386.51,8,,,,,35.56,161.7,311.85
+Hormel Foods Corp,HRL,7/5/2022,2,Active,37.5,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,2,7/5/2022,Narrow,Overvalued,Medium,Strong,42.92,,,7/5/2022,C,D,A,0,309.66,5,,,,,75.42,26.25,50.63
+Host Hotels & Resorts Inc,HST,7/5/2022,3,Active,18.5,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,19.27,,,7/5/2022,D,D,B,0,590.79,3,,,,,76.69,11.1,28.68
+Howmet Aerospace Inc,HWM,,,,,,,1/26/2021,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,32.81,,,7/5/2022,D,C,B,0,603.49,9,,,,,71.95,,
+HP Inc,HPQ,7/5/2022,3,Active,29,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,High,Moderate,31.43,,,7/5/2022,B,,C,0,803.83,6,,,,,84.07,17.4,44.95
+Humana Inc,HUM,7/5/2022,3,Active,485,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,Yes,No,7/5/2022,4,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,493.9,,,7/5/2022,B,C,B,0,,6,,,,,60.5,339.5,654.75
+Huntington Bancshares Inc,HBAN,7/5/2022,4,Active,16,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,None,Undervalued,High,Strong,16.23,,,7/5/2022,C,D,C,0.01,,10,,,,,49.5,11.2,21.6
+Huntington Ingalls Industries Inc,HII,7/5/2022,3,Active,223,Medium,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,233.73,,,7/5/2022,C,C,B,0,460.82,5,,,,,62.8,156.1,301.05
+IDEX Corp,IEX,7/5/2022,4,Active,222,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Strong,201.68,,,7/5/2022,C,C,B,0,273,6,,,,,32.62,155.4,299.7
+IDEXX Laboratories Inc,IDXX,7/5/2022,3,Active,326,Medium,Exemplary,7/5/2022,Narrow,Positive,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,373.16,,,7/5/2022,B,A,B,0,309.87,7,,,,,7.75,228.2,440.1
+Illinois Tool Works Inc,ITW,7/5/2022,4,Active,205,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,195.65,,,7/5/2022,C,A,A,0,331.03,7,,,,,42.19,143.5,276.75
+Illumina Inc,ILMN,7/5/2022,4,Active,377,Very High,Exemplary,7/5/2022,Narrow,Positive,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,Very High,Moderate,302.91,,,7/5/2022,C,D,B,0,349.32,8,,,,,7.26,188.5,659.75
+Incyte Corp,INCY,7/5/2022,4,Active,105,High,Standard,7/5/2022,Narrow,Positive,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,91.1,,,7/5/2022,B,B,A,0,126.83,4,,,,,60.22,63,162.75
+Ingersoll Rand Inc,IR,7/5/2022,4,Active,60,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,57.39,,,7/5/2022,C,D,B,0,389.77,7,,,,,38.35,42,81
+Intel Corp,INTC,7/5/2022,5,Active,65,High,Standard,7/5/2022,Wide,Negative,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Strong,57.65,,,7/5/2022,C,C,B,0,215.75,3,,,,,33.44,39,100.75
+Intercontinental Exchange Inc,ICE,7/5/2022,4,Active,130,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,Yes,No,7/5/2022,5,7/5/2022,Wide,Undervalued,Medium,Moderate,129.49,,,7/5/2022,B,C,D,0.13,468.66,9,,,,,45.04,91,175.5
+International Business Machines Corp,IBM,7/5/2022,2,Active,126,Medium,Poor,7/5/2022,Narrow,Negative,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,132.98,,,7/5/2022,D,C,B,0,564.13,7,,,,,64.14,88.2,170.1
+International Flavors & Fragrances Inc,IFF,7/5/2022,4,Active,150,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,154.13,,,7/5/2022,C,D,B,0,550.24,6,,,,,35.84,105,202.5
+International Paper Co,IP,7/5/2022,4,Active,52,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,49.92,,,7/5/2022,D,D,C,0,472.92,7,,,,,39.52,31.2,80.6
+Intuit Inc,INTU,7/5/2022,4,Active,511,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,No,Yes,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,519.79,,,7/5/2022,B,D,B,0,265.63,7,,,,,17.62,357.7,689.85
+Intuitive Surgical Inc,ISRG,7/5/2022,3,Active,204,High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,219.35,,,7/5/2022,B,C,A,0,,9,,,,,11.43,122.4,316.2
+Invesco Ltd,IVZ,7/5/2022,4,Active,20,High,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,22.27,,,7/5/2022,C,D,C,0.01,456.42,9,,,,,24.87,12,31
+IQVIA Holdings Inc,IQV,7/5/2022,4,Active,276,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,244.07,,,7/5/2022,B,C,B,0,594.07,6,,,,,32.31,193.2,372.6
+Iron Mountain Inc,IRM,,,,,,,10/29/2019,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,50.45,,,7/5/2022,C,B,B,0,720.97,7,,,,,76.88,,
+Jack Henry & Associates Inc,JKHY,7/5/2022,3,Active,167,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,No,No,Yes,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Strong,164.64,,,7/5/2022,C,C,A,0,208.42,6,,,,,70.61,116.9,225.45
+Jacobs Engineering Group Inc,J,7/5/2022,4,Active,152,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,137.16,,,7/5/2022,B,C,B,0,524.91,6,,,,,49.11,91.2,235.6
+JB Hunt Transport Services Inc,JBHT,7/5/2022,3,Active,151,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,Yes,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,167.49,,,7/5/2022,B,C,B,0,288.56,7,,,,,62.69,105.7,203.85
+JM Smucker Co,SJM,7/5/2022,4,Active,144,Medium,Poor,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,141.37,,,7/5/2022,C,D,B,0,516.86,3,,,,,71.66,100.8,194.4
+Johnson & Johnson,JNJ,7/5/2022,2,Active,167,Low,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Low,Strong,171.09,,,7/5/2022,C,B,A,0,269.1,7,,,,,67.46,133.6,208.75
+Johnson Controls International PLC,JCI,7/5/2022,4,Active,68,High,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,68.13,,,7/5/2022,C,C,B,0,543.46,7,,,,,25.34,40.8,105.4
+JPMorgan Chase & Co,JPM,7/5/2022,4,Active,151,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,155.16,,,7/5/2022,C,C,D,0.09,,8,,,,,24.66,105.7,203.85
+Juniper Networks Inc,JNPR,7/1/2022,3,Active,25,,Standard,7/1/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,33.37,,,7/5/2022,C,D,B,0,470.85,7,,,,,76.91,15,38.75
+Kellogg Co,K,7/5/2022,4,Active,82,Medium,Standard,7/5/2022,Wide,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,75.39,,,7/5/2022,C,C,B,0,483.61,6,,,,,66.97,57.4,110.7
+Keurig Dr Pepper Inc,KDP,7/5/2022,3,Active,33,Medium,Standard,7/5/2022,Narrow,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Low,Moderate,35.27,,,7/5/2022,F,D,B,0,535.26,5,,,,,68.52,23.1,44.55
+KeyCorp,KEY,7/5/2022,5,Active,26,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Strong,23.91,,,7/5/2022,C,C,C,0.01,,10,,,,,60.97,18.2,35.1
+Keysight Technologies Inc,KEYS,7/5/2022,4,Active,174,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,162.29,,,7/5/2022,C,B,B,0,265.41,6,,,,,25.34,104.4,269.7
+Kimberly-Clark Corp,KMB,7/5/2022,3,Active,126,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Low,Moderate,122.84,,,7/5/2022,C,,A,0,452.83,4,,,,,56.39,88.2,170.1
+Kimco Realty Corp,KIM,7/5/2022,4,Active,26.5,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,25.72,,,7/5/2022,C,C,C,0,410.49,6,,,,,73.26,18.55,35.78
+Kinder Morgan Inc Class P,KMI,7/5/2022,3,Active,17.5,Medium,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,18.99,,,7/5/2022,C,C,B,0,693.14,5,,,,,76.17,12.25,23.63
+KLA Corp,KLAC,7/5/2022,4,Active,396,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,Yes,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,374.02,,,7/5/2022,B,B,B,0,263.17,5,,,,,51.23,277.2,534.6
+L3Harris Technologies Inc,LHX,7/5/2022,3,Active,233,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,241.26,,,7/5/2022,B,D,B,0,418.19,4,,,,,66.73,163.1,314.55
+Laboratory Corp of America Holdings,LH,7/5/2022,4,Active,271,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,279.77,,,7/5/2022,B,C,B,0,309.28,6,,,,,28.59,189.7,365.85
+Lam Research Corp,LRCX,7/5/2022,5,Active,720,High,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,632.69,,,7/5/2022,B,A,B,0,241.33,7,,,,,23.63,432,"1,116.00"
+Lamb Weston Holdings Inc,LW,7/5/2022,2,Active,61,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,71.79,,,7/5/2022,C,,B,0,562.75,6,,,,,65.18,42.7,82.35
+Las Vegas Sands Corp,LVS,7/5/2022,4,Active,50,Very High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,46.09,,,7/5/2022,F,D,C,0,575.32,6,,,,,53.97,25,87.5
+Leidos Holdings Inc,LDOS,,,,,,,10/14/2013,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,105.74,,,7/5/2022,B,C,B,0,531.57,5,,,,,62.99,,
+Lennar Corp Class A,LEN,7/5/2022,4,Active,115,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,118.68,,,7/5/2022,B,C,C,0,260.58,7,,,,,16.53,69,178.25
+Lincoln National Corp,LNC,,,,,,,2/4/2011,None,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Moderate,65.91,,,7/5/2022,B,D,F,0.5,,10,,,,,43.26,,
+Linde PLC,LIN,7/5/2022,4,Active,333,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,293.57,,,7/5/2022,C,D,B,0,435.7,5,,,,,52.79,233.1,449.55
+Live Nation Entertainment Inc,LYV,7/5/2022,4,Active,105,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,110.94,,,7/5/2022,D,,C,0,941.84,7,,,,,68.2,63,162.75
+LKQ Corp,LKQ,7/5/2022,3,Active,46,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,57.69,,,7/5/2022,C,C,B,0,338.63,8,,,,,44.22,32.2,62.1
+Lockheed Martin Corp,LMT,7/5/2022,3,Active,445,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Low,Moderate,425.76,,,7/5/2022,C,B,B,0,351.86,5,,,,,86.62,311.5,600.75
+Loews Corp,L,,,,,,,8/26/2013,None,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,65.13,,,7/5/2022,C,D,B,0,,7,,,,,78.26,,
+Lowe's Companies Inc,LOW,7/5/2022,4,Active,209,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,209.28,,,7/5/2022,B,,B,0,378.61,6,,,,,48.31,146.3,282.15
+Lumen Technologies Inc Ordinary Shares,LUMN,7/5/2022,4,Active,16,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,16.9,,,7/5/2022,D,F,C,0.01,574.99,9,,,,,45.72,9.6,24.8
+LyondellBasell Industries NV,LYB,,,,,,,6/14/2017,Narrow,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,94.67,,,7/5/2022,C,C,C,0,313.77,7,,,,,68.77,,
+M&T Bank Corp,MTB,7/5/2022,3,Active,178,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Strong,174.65,,,7/5/2022,C,C,C,0.01,,8,,,,,86.08,124.6,240.3
+Marathon Oil Corp,MRO,7/5/2022,3,Active,19,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,23.09,,,7/5/2022,C,F,C,0,402.25,10,,,,,99.51,11.4,29.45
+Marathon Petroleum Corp,MPC,7/5/2022,3,Active,87,Very High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,91.51,,,7/5/2022,C,C,C,0,398.74,10,,,,,96.69,43.5,152.25
+MarketAxess Holdings Inc,MKTX,7/5/2022,4,Active,345,High,Exemplary,7/5/2022,Wide,Stable,No,No,No,Yes,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,303.56,,,7/5/2022,B,C,A,0,189.82,5,,,,,11.08,207,534.75
+Marriott International Inc Class A,MAR,7/5/2022,4,Active,164,Medium,Standard,7/5/2022,Narrow,Positive,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,155.97,,,7/5/2022,D,A,B,0,573.79,10,,,,,75.04,114.8,221.4
+Marsh & McLennan Companies Inc,MMC,7/5/2022,2,Active,130,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Moderate,143.69,,,7/5/2022,C,C,A,0,416.49,9,,,,,59.82,91,175.5
+Martin Marietta Materials Inc,MLM,7/5/2022,3,Active,315,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,329.4,,,7/5/2022,C,D,B,0,440.79,7,,,,,47.25,189,488.25
+Masco Corp,MAS,7/5/2022,5,Active,75,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,62.94,,,7/5/2022,B,,B,0,507.02,7,,,,,34.88,52.5,101.25
+Mastercard Inc Class A,MA,7/5/2022,4,Active,369,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,No,Yes,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,330.33,,,7/5/2022,B,A,B,0,309.58,4,,,,,61.25,258.3,498.15
+Match Group Inc,MTCH,7/5/2022,4,Active,107,High,Exemplary,7/5/2022,Narrow,Stable,No,No,No,Yes,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,98.74,,,7/5/2022,D,,C,0,601.74,7,,,,,5.38,64.2,165.85
+McCormick & Co Inc Registered Shs Non Vtg,MKC,7/5/2022,1,Active,63,Low,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Moderate,71.86,,,7/5/2022,C,C,B,0,553.34,5,,,,,78.43,50.4,78.75
+McDonald's Corp,MCD,7/5/2022,3,Active,227,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Low,Moderate,232.09,,,7/5/2022,C,,A,0,409.62,3,,,,,61.43,158.9,306.45
+McKesson Corp,MCK,7/5/2022,1,Active,235,Medium,Standard,7/5/2022,Narrow,Negative,No,No,No,No,Yes,7/5/2022,2,7/5/2022,Narrow,Overvalued,High,Strong,280.41,,,7/5/2022,B,,B,0,954.47,5,,,,,96.86,164.5,317.25
+Medtronic PLC,MDT,7/5/2022,4,Active,129,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,118.89,,,7/5/2022,C,C,B,0,390.8,6,,,,,33.36,90.3,174.15
+Merck & Co Inc,MRK,7/5/2022,3,Active,94,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Fairly Valued,Medium,Moderate,97.19,,,7/5/2022,C,A,B,0,306.76,2,,,,,70.82,65.8,126.9
+Meta Platforms Inc Class A,META,7/5/2022,5,Active,384,High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,No,7/5/2022,3,7/5/2022,Wide,Undervalued,Very High,Moderate,314.74,,,7/5/2022,B,A,B,0,157.73,8,,,,,5.85,230.4,595.2
+MetLife Inc,MET,7/5/2022,3,Active,56,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,66.81,,,7/5/2022,C,C,C,0.02,,8,,,,,76.57,33.6,86.8
+Mettler-Toledo International Inc,MTD,7/5/2022,1,Active,770,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,2,7/5/2022,Wide,Overvalued,High,Moderate,958.17,,,7/5/2022,C,A,B,0,336.45,6,,,,,33.19,539,"1,039.50"
+MGM Resorts International,MGM,7/5/2022,4,Active,47,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,48.82,,,7/5/2022,D,D,C,0.02,612.28,7,,,,,43.92,28.2,72.85
+Microchip Technology Inc,MCHP,7/5/2022,4,Active,83,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,76.41,,,7/5/2022,C,B,B,0,427.87,8,,,,,37.14,58.1,112.05
+Micron Technology Inc,MU,7/5/2022,4,Active,90,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,95.09,,,7/5/2022,C,D,B,0,174.48,7,,,,,52.43,54,139.5
+Microsoft Corp,MSFT,7/5/2022,4,Active,352,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,No,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,305.54,,,7/5/2022,B,A,A,0,223.2,5,,,,,49.26,246.4,475.2
+Mid-America Apartment Communities Inc,MAA,,,,,,,12/6/2010,None,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,194.23,,,7/5/2022,C,C,B,0,541.97,5,,,,,55.48,,
+Moderna Inc,MRNA,7/5/2022,4,Active,232,Very High,Standard,7/5/2022,None,Positive,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,244.26,,,7/5/2022,A,F,C,0.01,142.87,,,,,,1.91,116,406
+Mohawk Industries Inc,MHK,,,,,,,4/14/2020,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,187.51,,,7/5/2022,C,D,C,0,335.86,8,,,,,16.83,,
+Molina Healthcare Inc,MOH,,,,,,,8/14/2009,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Strong,291.93,,,7/5/2022,C,B,B,0,432.18,7,,,,,69.37,,
+Molson Coors Beverage Co Shs -B- Non-Voting,TAP,7/5/2022,4,Active,69,Medium,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,65.49,,,7/5/2022,C,D,B,0,549.48,8,,,,,76.19,48.3,93.15
+Mondelez International Inc Class A,MDLZ,7/5/2022,3,Active,63,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Low,Moderate,60.84,,,7/5/2022,C,C,A,0,478.1,7,,,,,66.58,44.1,85.05
+Monolithic Power Systems Inc,MPWR,7/5/2022,4,Active,540,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,462.77,,,7/5/2022,B,C,B,0,,5,,,,,30.75,324,837
+Monster Beverage Corp,MNST,7/5/2022,2,Active,82,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Strong,86.56,,,7/5/2022,B,A,B,0,,7,,,,,44.07,57.4,110.7
+Moody's Corporation,MCO,7/5/2022,4,Active,350,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,323.48,,,7/5/2022,B,B,B,0,387.97,10,,,,,21.6,245,472.5
+Morgan Stanley,MS,7/5/2022,4,Active,95,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,Yes,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,110.07,,,7/5/2022,B,C,C,0.01,,7,,,,,38.58,57,147.25
+Motorola Solutions Inc,MSI,7/5/2022,3,Active,195,Medium,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,207.1,,,7/5/2022,C,,B,0,515.23,6,,,,,43.66,136.5,263.25
+MSCI Inc,MSCI,7/5/2022,2,Active,375,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,419.94,,,7/5/2022,B,,B,0,445.43,9,,,,,12.93,262.5,506.25
+Nasdaq Inc,NDAQ,7/5/2022,3,Active,161,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,176.4,,,7/5/2022,B,C,B,0,479.25,9,,,,,22.04,112.7,217.35
+NetApp Inc,NTAP,7/1/2022,3,Active,60,,Standard,7/1/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Strong,76.63,,,7/5/2022,C,A,B,0,352.88,7,,,,,33.08,36,93
+Netflix Inc,NFLX,7/5/2022,4,Active,280,Very High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,Yes,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,Very High,Moderate,324.19,,,7/5/2022,B,A,C,0.01,346.03,8,,,,,2.74,140,490
+Newell Brands Inc,NWL,,,,,,,6/19/2012,None,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,24.68,,,7/5/2022,C,F,C,0,540,8,,,,,49.16,,
+Newmont Corp,NEM,,,,,,,10/18/2021,None,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,74.35,,,7/5/2022,C,B,B,0,469,4,,,,,80.45,,
+News Corp Class A,NWSA,7/5/2022,4,Active,20,High,Standard,7/6/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,22.31,,,7/5/2022,C,F,C,,487.68,7,,,,,31.77,12,31
+News Corp Class B,NWS,7/5/2022,4,Active,20,High,Standard,7/6/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,22.77,,,7/5/2022,C,F,C,,487.68,7,,,,,35.08,12,31
+NextEra Energy Inc,NEE,7/5/2022,3,Active,78,Medium,Exemplary,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,79.1,,,7/5/2022,C,D,B,0,672.94,9,,,,,46.17,54.6,105.3
+Nielsen Holdings PLC,NLSN,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,25.37,,,7/5/2022,D,B,C,0,579.04,9,,,,,65.46,,
+Nike Inc Class B,NKE,7/5/2022,4,Active,133,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,128.05,,,7/5/2022,C,A,B,0,,6,,,,,15.1,93.1,179.55
+NiSource Inc,NI,7/5/2022,4,Active,31,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Low,Moderate,28.78,,,7/5/2022,D,B,B,0,649.51,4,,,,,88.37,24.8,38.75
+Nordson Corp,NDSN,7/5/2022,4,Active,235,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Strong,219.48,,,7/5/2022,C,C,A,0,265.1,6,,,,,41.42,164.5,317.25
+Norfolk Southern Corp,NSC,7/5/2022,3,Active,243,Medium,Standard,7/5/2022,Wide,Stable,Yes,Yes,No,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Moderate,248.14,,,7/5/2022,C,D,B,0,473.17,9,,,,,54.71,170.1,328.05
+Northern Trust Corp,NTRS,7/5/2022,4,Active,108,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,127.87,,,7/5/2022,C,C,D,0.15,,8,,,,,51.08,75.6,145.8
+Northrop Grumman Corp,NOC,7/5/2022,2,Active,363,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,445.02,,,7/5/2022,B,A,B,0,344.38,5,,,,,84.31,254.1,490.05
+NortonLifeLock Inc,NLOK,7/5/2022,3,Active,24,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,24.99,,,7/5/2022,C,,B,0,596.34,6,,,,,60.05,14.4,37.2
+Norwegian Cruise Line Holdings Ltd,NCLH,7/5/2022,5,Active,29,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Weak,29.52,,,7/5/2022,F,F,D,0.17,953.44,10,,,,,14.37,17.4,44.95
+NRG Energy Inc,NRG,7/5/2022,3,Active,36,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,40.39,,,7/5/2022,A,,D,0.09,357.33,10,,,,,47.43,21.6,55.8
+Nucor Corp,NUE,,,,,,,1/26/2021,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,150.12,,,7/5/2022,B,B,C,0,167.37,8,,,,,78.63,,
+NVIDIA Corp,NVDA,7/5/2022,4,Active,200,High,Exemplary,7/5/2022,Wide,Positive,Yes,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,202.7,,,7/5/2022,B,C,B,0,164.06,8,,,,,45.66,120,310
+NVR Inc,NVR,,,,,,,4/14/2020,None,,,,,,,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,"4,894.54",,,7/5/2022,C,C,B,0,200.29,5,,,,,36.04,,
+NXP Semiconductors NV,NXPI,7/5/2022,5,Active,240,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,206,,,7/5/2022,C,C,C,0,394.57,7,,,,,,168,324
+Occidental Petroleum Corp,OXY,7/5/2022,2,Active,44,Very High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,2,7/5/2022,None,Overvalued,High,Moderate,54.35,,,7/5/2022,C,F,C,0,412.37,9,,,,,99.56,22,77
+Old Dominion Freight Line Inc Ordinary Shares,ODFL,7/5/2022,2,Active,195,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,247.39,,,7/5/2022,B,C,A,0,138.82,5,,,,,42.37,136.5,263.25
+Omnicom Group Inc,OMC,7/5/2022,4,Active,90,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,83.41,,,7/5/2022,C,C,C,0,475.68,6,,,,,73.33,54,139.5
+ON Semiconductor Corp,ON,7/5/2022,4,Active,67,High,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,65.38,,,7/5/2022,C,D,C,0,254.36,9,,,,,75.51,40.2,103.85
+ONEOK Inc,OKE,7/5/2022,3,Active,56,Medium,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,59.96,,,7/5/2022,D,C,B,0,603.62,8,,,,,80.71,39.2,75.6
+Oracle Corp,ORCL,7/5/2022,3,Active,67,Medium,Poor,7/5/2022,Narrow,Negative,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,80.42,,,7/5/2022,B,,B,0,535.96,4,,,,,27.01,46.9,90.45
+O'Reilly Automotive Inc,ORLY,7/5/2022,3,Active,580,Medium,Exemplary,7/5/2022,Narrow,Positive,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,618.2,,,7/5/2022,B,A,B,0,382.39,6,,,,,64.11,406,783
+Organon & Co Ordinary Shares,OGN,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,37.81,,,7/5/2022,D,A,C,0,516.68,,,,,,72.15,,
+Otis Worldwide Corp Ordinary Shares,OTIS,7/5/2022,3,Active,73,Low,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,74.29,,,7/5/2022,C,,B,0,,,,,,,38.1,58.4,91.25
+PACCAR Inc,PCAR,7/5/2022,4,Active,104,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,92.33,,,7/5/2022,C,D,B,0,325.56,5,,,,,71.13,72.8,140.4
+Packaging Corp of America,PKG,,,,,,,10/18/2021,None,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,147.14,,,7/5/2022,C,C,B,0,311.12,5,,,,,72.07,,
+Paramount Global Class B,PARA,7/5/2022,5,Active,58,High,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Moderate,47.07,,,7/5/2022,C,D,C,0.02,437.58,9,,,,,34.71,34.8,89.9
+Parker Hannifin Corp,PH,7/5/2022,4,Active,325,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,297.69,,,7/5/2022,C,C,B,0,398.33,9,,,,,47.66,227.5,438.75
+Paychex Inc,PAYX,7/5/2022,3,Active,115,High,Exemplary,7/5/2022,Wide,Positive,Yes,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Strong,111.37,,,7/5/2022,C,C,B,0,283.24,6,,,,,63.87,69,178.25
+Paycom Software Inc,PAYC,7/5/2022,4,Active,388,High,Exemplary,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,363.84,,,7/5/2022,B,D,C,0,311.19,7,,,,,7.8,232.8,601.4
+PayPal Holdings Inc,PYPL,7/5/2022,5,Active,135,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,Yes,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,130.78,,,7/5/2022,B,C,C,0.01,414.11,7,,,,,1.26,81,209.25
+Penn National Gaming Inc,PENN,,,,,,,2/17/2012,None,,,,,,,7/5/2022,3,7/5/2022,None,Undervalued,Extreme,Moderate,71.39,,,7/5/2022,C,D,D,0.11,701.01,8,,,,,4.07,,
+Pentair PLC,PNR,7/5/2022,5,Active,68,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,65.74,,,7/5/2022,C,B,B,0,280.42,8,,,,,9.42,47.6,91.8
+PepsiCo Inc,PEP,7/5/2022,3,Active,164,Low,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Overvalued,Low,Strong,159.91,,,7/5/2022,C,B,A,0,453.92,6,,,,,70.56,131.2,205
+PerkinElmer Inc,PKI,7/5/2022,3,Active,144,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,159.63,,,7/5/2022,B,C,B,0,402.18,7,,,,,31.86,100.8,194.4
+Pfizer Inc,PFE,7/5/2022,3,Active,48,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,54.3,,,7/5/2022,B,C,B,0,275.43,8,,,,,74.62,33.6,64.8
+Philip Morris International Inc,PM,7/5/2022,3,Active,103,Medium,Exemplary,7/5/2022,Wide,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,102.02,,,7/5/2022,C,,B,0,,5,,,,,66.9,72.1,139.05
+Phillips 66,PSX,7/5/2022,3,Active,96,High,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,90.28,,,7/5/2022,C,D,C,0,498.95,9,,,,,88.98,57.6,148.8
+Pinnacle West Capital Corp,PNW,7/5/2022,4,Active,77,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,77.07,,,7/5/2022,C,C,B,0,625.67,9,,,,,61.54,61.6,96.25
+Pioneer Natural Resources Co,PXD,7/5/2022,3,Active,206,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,218.76,,,7/5/2022,B,C,B,0,243.97,8,,,,,97.64,144.2,278.1
+PNC Financial Services Group Inc,PNC,7/5/2022,4,Active,185,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,218.19,,,7/5/2022,C,C,C,0,,8,,,,,49.3,129.5,249.75
+Pool Corp,POOL,,,,,,,4/1/2003,None,,,,,,,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,416.13,,,7/5/2022,B,B,B,0,239.48,6,,,,,25.36,,
+PPG Industries Inc,PPG,7/5/2022,3,Active,112,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,134.84,,,7/5/2022,C,C,B,0,463.23,7,,,,,24.18,78.4,151.2
+PPL Corp,PPL,7/5/2022,3,Active,27,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,27.29,,,7/5/2022,D,D,B,0,633.32,10,,,,,56.63,21.6,33.75
+Principal Financial Group Inc,PFG,,,,,,,4/11/2016,Narrow,,,,,,,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,71.26,,,7/5/2022,C,D,D,0.07,,10,,,,,71.04,,
+Procter & Gamble Co,PG,7/5/2022,2,Active,124,Low,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Low,Strong,130.39,,,7/5/2022,C,C,A,0,361.96,4,,,,,72.32,99.2,155
+Progressive Corp,PGR,7/5/2022,2,Active,86,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,High,Strong,101.97,,,7/5/2022,B,A,B,0,,3,,,,,85.15,60.2,116.1
+Prologis Inc,PLD,7/5/2022,4,Active,143,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,146.16,,,7/5/2022,C,D,B,0,341.56,6,,,,,65.85,85.8,221.65
+Prudential Financial Inc,PRU,7/5/2022,3,Active,97,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,114.13,,,7/5/2022,C,D,D,0.24,,10,,,,,67.91,58.2,150.35
+PTC Inc,PTC,7/5/2022,3,Active,105,Medium,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,106.83,,,7/5/2022,B,B,B,0,363.94,7,,,,,37.91,73.5,141.75
+Public Service Enterprise Group Inc,PEG,7/5/2022,3,Active,64,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Low,Moderate,60.71,,,7/5/2022,C,D,B,0,872.75,8,,,,,70.19,51.2,80
+Public Storage,PSA,7/5/2022,3,Active,340,High,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,Medium,Moderate,329.31,,,7/5/2022,C,A,A,0,250.56,2,,,,,76.11,204,527
+PulteGroup Inc,PHM,,,,,,,4/14/2020,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,62.14,,,7/5/2022,B,B,C,0,178.97,5,,,,,32.63,,
+PVH Corp,PVH,7/5/2022,5,Active,131,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,118.4,,,7/5/2022,C,D,C,0.03,388.56,10,,,,,14.05,78.6,203.05
+Qorvo Inc,QRVO,7/5/2022,5,Active,169,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,160.31,,,7/5/2022,B,B,B,0,224.47,5,,,,,8.24,101.4,261.95
+Qualcomm Inc,QCOM,7/5/2022,4,Active,163,High,Standard,7/5/2022,Narrow,Negative,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,163.2,,,7/5/2022,B,A,B,0,282.63,5,,,,,59.21,97.8,252.65
+Quanta Services Inc,PWR,7/5/2022,2,Active,102,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,High,Moderate,125.58,,,7/5/2022,C,C,B,0,469.18,6,,,,,70.12,61.2,158.1
+Quest Diagnostics Inc,DGX,7/5/2022,3,Active,143,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,145.47,,,7/5/2022,D,B,B,0,302.87,6,,,,,38.26,100.1,193.05
+Ralph Lauren Corp Class A,RL,7/5/2022,4,Active,122,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,124.04,,,7/5/2022,C,C,C,0,401.87,9,,,,,45.06,73.2,189.1
+Raymond James Financial Inc,RJF,7/5/2022,3,Active,99,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,113.29,,,7/5/2022,B,C,C,0.02,,7,,,,,73.54,59.4,153.45
+Raytheon Technologies Corp,RTX,7/5/2022,3,Active,94,High,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,96.78,,,7/5/2022,D,D,B,0,556.49,7,,,,,77.42,56.4,145.7
+Realty Income Corp,O,7/5/2022,4,Active,76,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,75.05,,,7/5/2022,C,D,C,0,624.92,4,,,,,60.11,53.2,102.6
+Regency Centers Corp,REG,7/5/2022,4,Active,75,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,69.48,,,6/30/2022,C,C,,,505.89,5,,,,,57.11,52.5,101.25
+Regeneron Pharmaceuticals Inc,REGN,7/5/2022,3,Active,620,Medium,Standard,7/5/2022,Narrow,Positive,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Strong,658.8,,,7/5/2022,A,A,A,0,104.37,4,,,,,59.64,434,837
+Regions Financial Corp,RF,7/5/2022,3,Active,21,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Strong,24.07,,,7/5/2022,C,C,C,0.04,,9,,,,,67.02,14.7,28.35
+Republic Services Inc,RSG,7/5/2022,2,Active,101,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,High,Moderate,113.47,,,7/5/2022,C,C,B,0,524,6,,,,,61.33,70.7,136.35
+ResMed Inc,RMD,7/5/2022,4,Active,250,Medium,Exemplary,7/6/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Strong,224.76,,,7/5/2022,B,C,A,,271.75,6,,,,,23.78,175,337.5
+Robert Half International Inc,RHI,7/5/2022,3,Active,88,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,Yes,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Strong,92.87,,,7/5/2022,C,A,B,0,,8,,,,,53.64,52.8,136.4
+Rockwell Automation Inc,ROK,7/5/2022,5,Active,290,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,268.07,,,7/5/2022,C,A,B,0,473.06,9,,,,,17.61,203,391.5
+Rollins Inc,ROL,7/5/2022,2,Active,27.7,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,No,No,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Strong,31.3,,,7/5/2022,C,A,B,0,257.29,5,,,,,44.34,19.39,37.4
+Roper Technologies Inc,ROP,7/5/2022,4,Active,510,Medium,Exemplary,7/5/2022,Wide,Stable,No,Yes,No,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,431.76,,,7/5/2022,C,D,A,0,345.89,6,,,,,44.68,357,688.5
+Ross Stores Inc,ROST,7/5/2022,4,Active,99,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,99.29,,,6/30/2022,C,C,,,325.38,4,,,,,16.58,69.3,133.65
+Royal Caribbean Group,RCL,7/5/2022,5,Active,80,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Moderate,85.82,,,7/5/2022,F,F,D,0.12,975.99,9,,,,,33.53,48,124
+S&P Global Inc,SPGI,7/5/2022,4,Active,410,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,Yes,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,Medium,Moderate,411.53,,,7/5/2022,C,A,B,0,281.88,8,,,,,24.49,287,553.5
+Salesforce Inc,CRM,7/5/2022,5,Active,305,Medium,Standard,7/5/2022,Wide,Positive,No,No,No,Yes,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,263.26,,,7/5/2022,B,D,B,0,454.56,7,,,,,11.38,213.5,411.75
+SBA Communications Corp,SBAC,7/5/2022,2,Active,245,High,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,Yes,7/5/2022,2,7/5/2022,Narrow,Overvalued,High,Moderate,288.35,,,7/5/2022,C,,B,0,838.66,1,,,,,44.34,147,379.75
+Schlumberger Ltd,SLB,7/5/2022,4,Active,49,High,Exemplary,7/5/2022,Narrow,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,42.09,,,7/5/2022,D,F,C,0,488.34,7,,,,,95.43,29.4,75.95
+Seagate Technology Holdings PLC,STX,7/5/2022,3,Active,80,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Moderate,89.03,,,7/5/2022,C,A,C,0,386.49,6,,,,,62.81,48,124
+Sealed Air Corp,SEE,,,,,,,10/18/2021,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,61.9,,,7/5/2022,C,,B,0,483.41,8,,,,,74.05,,
+Sempra Energy,SRE,7/5/2022,3,Active,144,Medium,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Low,Moderate,146.01,,,7/5/2022,C,C,B,0,746.19,6,,,,,84.32,100.8,194.4
+ServiceNow Inc,NOW,7/5/2022,5,Active,700,Medium,Exemplary,7/5/2022,Wide,Positive,No,No,No,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,637.07,,,7/5/2022,B,B,B,0,554.98,5,,,,,21.66,490,945
+Sherwin-Williams Co,SHW,7/5/2022,2,Active,197,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,246.78,,,7/5/2022,C,A,B,0,499.59,7,,,,,25.85,137.9,265.95
+Signature Bank,SBNY,,,,,,,11/13/2017,Narrow,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,285.81,,,7/5/2022,C,C,D,0.25,,10,,,,,49.43,,
+Simon Property Group Inc,SPG,7/5/2022,5,Active,160,Medium,Exemplary,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,140.68,,,7/5/2022,D,A,C,0,616.35,8,,,,,40.7,112,216
+Skyworks Solutions Inc,SWKS,7/5/2022,5,Active,180,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,159.61,,,7/5/2022,C,C,B,0,182.04,5,,,,,8.89,108,279
+Snap-on Inc,SNA,7/5/2022,3,Active,184,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,204.77,,,7/5/2022,C,C,B,0,226.26,7,,,,,53.99,128.8,248.4
+SolarEdge Technologies Inc,SEDG,7/5/2022,3,Active,254,Very High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,315.35,,,7/5/2022,B,D,C,0,356.39,4,,,,,48.81,127,444.5
+Southern Co,SO,7/5/2022,2,Active,65,Low,Exemplary,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,2,7/5/2022,Wide,Fairly Valued,Low,Moderate,68.02,,,7/5/2022,C,C,B,0,711.64,7,,,,,77.08,52,81.25
+Southwest Airlines Co,LUV,7/5/2022,4,Active,57,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Strong,51.2,,,7/5/2022,D,D,C,0,642.93,6,,,,,38.91,34.2,88.35
+Stanley Black & Decker Inc,SWK,,,,,,,9/27/2013,Narrow,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,167.68,,,7/5/2022,C,C,C,0,521.03,10,,,,,10.86,,
+Starbucks Corp,SBUX,7/5/2022,4,Active,100,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,97.22,,,7/5/2022,B,,B,0,332.25,4,,,,,11.37,70,135
+State Street Corporation,STT,7/5/2022,4,Active,92,High,Standard,7/5/2022,Wide,Negative,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Strong,91.93,,,7/5/2022,C,C,C,0.06,,10,,,,,33.51,55.2,142.6
+Steris PLC,STE,7/5/2022,3,Active,201,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,213.73,,,7/5/2022,C,D,B,0,485.98,4,,,,,64.34,140.7,271.35
+Stryker Corp,SYK,7/5/2022,3,Active,195,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,204.42,,,7/5/2022,C,C,B,0,,6,,,,,40.64,136.5,263.25
+SVB Financial Group,SIVB,,,,,,,4/18/2019,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,Very High,Strong,614.35,,,7/5/2022,B,C,D,0.2,,10,,,,,27.28,,
+Synchrony Financial,SYF,7/5/2022,4,Active,43,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,Very High,Strong,48.78,,,7/5/2022,C,B,C,0.03,,8,,,,,19.4,25.8,66.65
+Synopsys Inc,SNPS,7/5/2022,3,Active,334,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,322.32,,,7/5/2022,C,C,B,0,241.87,7,,,,,52.28,200.4,517.7
+Sysco Corp,SYY,7/5/2022,3,Active,81,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Overvalued,Medium,Moderate,80.13,,,7/5/2022,C,C,B,0,594.38,6,,,,,73.43,56.7,109.35
+T. Rowe Price Group Inc,TROW,7/5/2022,4,Active,155,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Strong,171.94,,,7/5/2022,B,A,B,0,,9,,,,,5.46,108.5,209.25
+Take-Two Interactive Software Inc,TTWO,7/5/2022,4,Active,200,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Strong,182.51,,,7/5/2022,B,C,B,0,301.1,7,,,,,26.66,120,310
+Tapestry Inc,TPR,7/5/2022,4,Active,53,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,47.87,,,7/5/2022,C,C,C,0,359.62,9,,,,,39.32,31.8,82.15
+Target Corp,TGT,7/5/2022,4,Active,171,Medium,Exemplary,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,203.65,,,7/5/2022,B,A,C,0,384.84,4,,,,,18.25,119.7,230.85
+TE Connectivity Ltd,TEL,7/5/2022,3,Active,125,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,136.89,,,7/5/2022,C,D,B,0,275.68,8,,,,,33.45,75,193.75
+Teledyne Technologies Inc,TDY,,,,,,,,,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,439.47,,,7/5/2022,C,D,B,0,425.92,5,,,,,48.51,,
+Teleflex Inc,TFX,7/5/2022,2,Active,211,High,Poor,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,High,Moderate,255.82,,,7/5/2022,C,C,B,0,347.82,9,,,,,27.41,126.6,327.05
+Teradyne Inc,TER,7/5/2022,5,Active,172,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,146.32,,,7/5/2022,B,A,B,0,136.35,9,,,,,26.65,103.2,266.6
+Tesla Inc,TSLA,7/5/2022,3,Active,750,Very High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,807.04,,,7/5/2022,B,F,B,0,249.22,6,,,,,55.55,375,"1,312.50"
+Texas Instruments Inc,TXN,7/5/2022,3,Active,166,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Strong,164.44,,,7/5/2022,C,A,A,0,159.49,4,,,,,40.75,116.2,224.1
+Textron Inc,TXT,7/5/2022,2,Active,51,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,65.19,,,7/5/2022,C,C,B,0,424.61,9,,,,,50.08,30.6,79.05
+The AES Corp,AES,7/5/2022,3,Active,21,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Fairly Valued,Medium,Moderate,21.72,,,7/5/2022,C,F,C,0,839.83,10,,,,,45.77,14.7,28.35
+The Cooper Companies Inc,COO,7/5/2022,4,Active,359,Medium,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,354.62,,,7/5/2022,C,B,B,0,345.9,7,,,,,36.39,251.3,484.65
+The Estee Lauder Companies Inc Class A,EL,7/5/2022,3,Active,283,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,272.59,,,7/5/2022,C,A,B,0,303.05,8,,,,,22.22,198.1,382.05
+The Goldman Sachs Group Inc,GS,7/5/2022,4,Active,430,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,Yes,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,445.67,,,7/5/2022,B,B,D,0.25,,7,,,,,27.36,258,666.5
+The Hartford Financial Services Group Inc,HIG,,,,,,,4/11/2016,None,,,,,,,7/5/2022,3,7/5/2022,None,Undervalued,Medium,Moderate,70.07,,,7/5/2022,C,B,B,0,,8,,,,,64.27,,
+The Hershey Co,HSY,7/5/2022,1,Active,156,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,1,7/5/2022,Wide,Overvalued,High,Strong,181.33,,,7/5/2022,C,B,B,0,370.92,6,,,,,84.59,109.2,210.6
+The Home Depot Inc,HD,7/5/2022,3,Active,264,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,313.78,,,7/5/2022,B,,B,0,363.42,5,,,,,34.35,184.8,356.4
+The Interpublic Group of Companies Inc,IPG,7/5/2022,4,Active,35,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,35.33,,,7/5/2022,C,C,C,0,472.81,7,,,,,45.77,21,54.25
+The Kraft Heinz Co,KHC,7/5/2022,4,Active,51,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,46.53,,,7/5/2022,C,D,B,0,631.33,8,,,,,69.71,30.6,79.05
+The Kroger Co,KR,7/5/2022,3,Active,47.5,Medium,Exemplary,7/5/2022,Narrow,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,Medium,Moderate,50.91,,,7/5/2022,C,C,C,0,557.02,9,,,,,81.35,33.25,64.13
+The Mosaic Co,MOS,7/5/2022,3,Active,42,Very High,Standard,7/5/2022,None,Positive,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Moderate,57.38,,,7/5/2022,C,B,C,0,298.61,8,,,,,97.54,21,73.5
+The Travelers Companies Inc,TRV,7/5/2022,3,Active,178,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Low,Moderate,177.5,,,7/5/2022,C,C,B,0,,7,,,,,77.46,124.6,240.3
+The Walt Disney Co,DIS,7/5/2022,5,Active,170,High,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,159.79,,,7/5/2022,C,D,B,0,597.31,8,,,,,10.2,102,263.5
+Thermo Fisher Scientific Inc,TMO,7/5/2022,3,Active,560,Medium,Exemplary,7/5/2022,Wide,Positive,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,531.81,,,7/5/2022,B,B,B,0,346.47,4,,,,,48.49,392,756
+TJX Companies Inc,TJX,7/5/2022,4,Active,66,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,61.7,,,7/5/2022,C,C,B,0,352.76,4,,,,,39.73,46.2,89.1
+T-Mobile US Inc,TMUS,7/5/2022,4,Active,155,Medium,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,5,7/5/2022,Narrow,Undervalued,Medium,Moderate,153.99,,,7/5/2022,C,D,B,0,687.83,5,,,,,53.32,108.5,209.25
+Tractor Supply Co,TSCO,7/5/2022,2,Active,171,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,196.26,,,7/5/2022,B,A,B,0,334.94,5,,,,,60.47,119.7,230.85
+Trane Technologies PLC Class A,TT,7/5/2022,3,Active,126,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,152.07,,,7/5/2022,C,C,B,0,416.03,6,,,,,15.01,75.6,195.3
+TransDigm Group Inc,TDG,7/5/2022,4,Active,640,High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,578.42,,,7/5/2022,C,,B,0,721.92,9,,,,,55.36,384,992
+Trimble Inc,TRMB,,,,,,,1/31/2017,Narrow,,,,,,,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,73.91,,,7/5/2022,C,C,B,0,370.69,9,,,,,14.19,,
+Truist Financial Corp,TFC,7/5/2022,4,Active,64,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,64.88,,,7/5/2022,C,C,C,0.01,,8,,,,,50.27,44.8,86.4
+Twitter Inc,TWTR,7/5/2022,4,Active,54.2,Very High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,53.12,,,7/5/2022,B,D,C,0,511.2,3,,,,,27.6,27.1,94.85
+Tyler Technologies Inc,TYL,7/5/2022,5,Active,530,Medium,Standard,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,4,7/5/2022,Wide,Undervalued,Very High,Moderate,438.09,,,7/5/2022,B,D,B,0,489.22,6,,,,,18.72,371,715.5
+Tyson Foods Inc Class A,TSN,7/5/2022,3,Active,98,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,94.62,,,7/5/2022,C,C,B,0,284,7,,,,,83.33,58.8,151.9
+U.S. Bancorp,USB,7/5/2022,4,Active,60,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,57.44,,,7/5/2022,C,C,C,0.01,,8,,,,,46.48,42,81
+UDR Inc,UDR,,,,,,,1/17/2013,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,51,,,7/5/2022,C,D,B,0,634.5,6,,,,,51.65,,
+Ulta Beauty Inc,ULTA,7/5/2022,2,Active,323,High,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Moderate,362.7,,,7/5/2022,B,A,B,0,,7,,,,,64.94,193.8,500.65
+Union Pacific Corp,UNP,7/5/2022,3,Active,211,Medium,Standard,7/5/2022,Wide,Stable,Yes,Yes,No,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,219.46,,,7/5/2022,C,C,B,0,482.77,8,,,,,71.37,147.7,284.85
+United Airlines Holdings Inc,UAL,7/5/2022,4,Active,57,Very High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,55.13,,,7/5/2022,D,F,C,0.05,898.83,7,,,,,49.98,28.5,99.75
+United Parcel Service Inc Class B,UPS,7/5/2022,3,Active,186,Medium,Standard,7/5/2022,Wide,Negative,Yes,Yes,No,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Moderate,196.75,,,7/5/2022,C,B,B,0,321.49,7,,,,,59.26,130.2,251.1
+United Rentals Inc,URI,7/5/2022,4,Active,323,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,333.06,,,7/5/2022,B,D,C,0,485.39,6,,,,,32.97,193.8,500.65
+UnitedHealth Group Inc,UNH,7/5/2022,2,Active,402,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,Yes,No,7/5/2022,2,7/5/2022,Wide,Overvalued,Medium,Strong,453.9,,,7/5/2022,C,C,A,0,410.99,1,,,,,81.88,281.4,542.7
+Universal Health Services Inc Class B,UHS,,,,,,,9/14/2009,None,,,,,,,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,145.57,,,7/5/2022,C,C,C,0,411.29,9,,,,,44.18,,
+Valero Energy Corp,VLO,7/5/2022,3,Active,101,Very High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,117.14,,,7/5/2022,C,D,C,0,481.64,9,,,,,97.31,50.5,176.75
+Ventas Inc,VTR,7/5/2022,4,Active,69,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,Medium,Moderate,60.61,,,7/5/2022,C,,B,0,732.38,7,,,,,62.25,48.3,93.15
+VeriSign Inc,VRSN,7/5/2022,4,Active,215,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,High,Moderate,195.82,,,7/5/2022,C,,B,0,,6,,,,,34.12,150.5,290.25
+Verisk Analytics Inc,VRSK,,,,,,,8/23/2013,Wide,,,,,,,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,186.33,,,7/5/2022,C,C,A,0,445.64,6,,,,,39.03,,
+Verizon Communications Inc,VZ,7/5/2022,4,Active,59,Medium,Standard,7/5/2022,Narrow,Stable,Yes,Yes,No,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,Medium,Moderate,56.92,,,7/5/2022,C,D,B,0,521.15,5,,,,,52.06,41.3,79.65
+Vertex Pharmaceuticals Inc,VRTX,7/5/2022,3,Active,293,High,Standard,7/5/2022,Narrow,Positive,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Strong,285.29,,,7/5/2022,A,C,A,0,138.71,3,,,,,93.11,175.8,454.15
+VF Corp,VFC,7/5/2022,5,Active,66,Medium,Exemplary,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,62.31,,,7/5/2022,C,A,B,0,417.9,8,,,,,10.56,46.2,89.1
+Viatris Inc,VTRS,7/5/2022,,Under Review,,Very High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Very High,Moderate,15.73,,,7/5/2022,D,F,C,0.01,655.96,8,,,,,36.96,,
+VICI Properties Inc Ordinary Shares,VICI,,,,,,,,,,,,,,,7/5/2022,3,7/5/2022,None,Undervalued,High,Moderate,32.46,,,7/5/2022,B,C,B,0,384.19,,,,,,53.48,,
+Visa Inc Class A,V,7/5/2022,4,Active,229,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,No,Yes,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,207.02,,,7/5/2022,C,A,A,0,273.66,5,,,,,50.83,160.3,309.15
+Vornado Realty Trust,VNO,7/5/2022,4,Active,43,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,43.02,,,7/5/2022,D,D,C,0,679.49,10,,,,,45.92,25.8,66.65
+Vulcan Materials Co,VMC,7/5/2022,3,Active,145,High,Exemplary,7/5/2022,Narrow,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,159.52,,,7/5/2022,C,C,B,0,459.86,7,,,,,44.51,87,224.75
+W.W. Grainger Inc,GWW,7/5/2022,2,Active,390,Medium,Standard,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,434.51,,,7/5/2022,C,A,A,0,282.78,7,,,,,74.41,273,526.5
+Walgreens Boots Alliance Inc,WBA,7/5/2022,4,Active,48,High,Standard,7/5/2022,None,Negative,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,52.25,,,7/5/2022,C,D,C,0,476.28,8,,,,,43.89,28.8,74.4
+Walmart Inc,WMT,7/5/2022,4,Active,138,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,High,Moderate,128.68,,,7/5/2022,C,C,B,0,468.99,3,,,,,49.06,96.6,186.3
+Warner Bros.Discovery Inc Ordinary Shares - Class A,WBD,7/5/2022,5,Active,40,High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,Extreme,Moderate,30.65,,,7/5/2022,C,B,C,0.04,473.61,8,,,,,25.26,24,62
+Waste Management Inc,WM,7/5/2022,2,Active,124,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,1,7/5/2022,Wide,Overvalued,Medium,Moderate,129.07,,,7/5/2022,C,C,A,0,504.68,6,,,,,56.14,86.8,167.4
+Waters Corp,WAT,7/5/2022,2,Active,263,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,2,7/5/2022,Wide,Overvalued,High,Moderate,303.34,,,7/5/2022,B,A,A,0,305.37,6,,,,,31.62,184.1,355.05
+WEC Energy Group Inc,WEC,7/5/2022,2,Active,94,Low,Exemplary,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,1,7/5/2022,Narrow,Overvalued,Low,Moderate,93.35,,,7/5/2022,C,C,B,0,618.49,6,,,,,70.25,75.2,117.5
+Wells Fargo & Co,WFC,7/5/2022,5,Active,58,Medium,Standard,7/5/2022,Wide,Stable,Yes,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,Very High,Strong,55.14,,,7/5/2022,C,D,C,0.01,,7,,,,,62.4,40.6,78.3
+Welltower OP LLC,WELL,7/5/2022,4,Active,97,Medium,Exemplary,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,Medium,Moderate,92.22,,,7/5/2022,C,D,B,0,592.11,5,,,,,67.27,67.9,130.95
+West Pharmaceutical Services Inc,WST,7/5/2022,3,Active,280,High,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Strong,291.72,,,7/5/2022,B,B,B,0,146.16,9,,,,,18.86,168,434
+Western Digital Corp,WDC,7/5/2022,4,Active,70,High,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,65.06,,,7/5/2022,D,C,C,0,377.25,10,,,,,30.49,42,108.5
+Westinghouse Air Brake Technologies Corp,WAB,,,,,,,,,,,,,,,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Moderate,92.76,,,7/5/2022,C,D,B,0,502.47,10,,,,,62.48,,
+WestRock Co,WRK,,,,,,,10/18/2021,None,,,,,,,7/5/2022,5,7/5/2022,None,Undervalued,High,Moderate,56.7,,,7/5/2022,C,D,C,0,564.3,8,,,,,47.27,,
+Weyerhaeuser Co,WY,,,,,,,10/18/2021,None,,,,,,,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,36.59,,,7/5/2022,C,B,B,0,235.61,9,,,,,77.21,,
+Whirlpool Corp,WHR,,,,,,,5/7/2004,None,,,,,,,7/5/2022,5,7/5/2022,Narrow,Undervalued,High,Moderate,226.92,,,7/5/2022,C,B,C,0,414,9,,,,,28.72,,
+Williams Companies Inc,WMB,7/5/2022,3,Active,31,Medium,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,Medium,Moderate,31.12,,,7/5/2022,D,D,B,0,666.19,4,,,,,93.09,21.7,41.85
+Willis Towers Watson PLC,WTW,7/5/2022,3,Active,219,Medium,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,4,7/5/2022,Narrow,Undervalued,High,Strong,227.44,,,7/5/2022,C,B,B,0,366.25,6,,,,,46.96,153.3,295.65
+WR Berkley Corp,WRB,7/5/2022,2,Active,53,Medium,Exemplary,7/5/2022,Narrow,Stable,Yes,No,No,No,No,7/5/2022,3,7/5/2022,Narrow,Fairly Valued,High,Strong,65.53,,,7/5/2022,C,C,B,0,,6,,,,,91.18,37.1,71.55
+Wynn Resorts Ltd,WYNN,7/5/2022,4,Active,104,Very High,Standard,7/5/2022,Narrow,Stable,No,No,Yes,No,No,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,101.65,,,7/5/2022,D,,C,0.03,903.07,10,,,,,20.67,52,182
+Xcel Energy Inc,XEL,7/5/2022,2,Active,57,Low,Standard,7/5/2022,Narrow,Stable,No,Yes,No,No,No,7/5/2022,1,7/5/2022,Narrow,Overvalued,Low,Moderate,65.61,,,7/5/2022,C,C,B,0,683.04,7,,,,,71.1,45.6,71.25
+Xylem Inc,XYL,7/5/2022,4,Active,96,Medium,Standard,7/5/2022,Narrow,Positive,No,No,Yes,No,Yes,7/5/2022,3,7/5/2022,Wide,Undervalued,High,Moderate,103.75,,,7/5/2022,C,D,B,0,460.93,7,,,,,8.65,67.2,129.6
+Yum Brands Inc,YUM,7/5/2022,3,Active,125,Medium,Standard,7/5/2022,Wide,Negative,Yes,No,Yes,No,No,7/5/2022,3,7/5/2022,Wide,Fairly Valued,Medium,Moderate,119.1,,,7/5/2022,C,,B,0,469.86,5,,,,,44.57,87.5,168.75
+Zebra Technologies Corp Class A,ZBRA,7/5/2022,4,Active,449,High,Standard,7/5/2022,Narrow,Stable,No,No,No,No,Yes,7/5/2022,3,7/5/2022,Narrow,Undervalued,High,Moderate,435.44,,,7/5/2022,C,A,B,0,278.15,8,,,,,8.65,269.4,695.95
+Zimmer Biomet Holdings Inc,ZBH,7/5/2022,5,Active,175,Medium,Exemplary,7/5/2022,Wide,Stable,No,No,Yes,No,Yes,7/5/2022,5,7/5/2022,Wide,Undervalued,High,Moderate,141.48,,,7/5/2022,C,D,B,0,544.71,8,,,,,34.74,122.5,236.25
+Zions Bancorp NA,ZION,7/5/2022,4,Active,70,Medium,Standard,7/5/2022,None,Stable,No,No,No,No,No,7/5/2022,4,7/5/2022,None,Undervalued,High,Strong,65.65,,,7/5/2022,C,C,D,0.1,,9,,,,,66.27,49,94.5
+Zoetis Inc Class A,ZTS,7/5/2022,3,Active,186,Medium,Exemplary,7/5/2022,Wide,Stable,Yes,No,Yes,No,No,7/5/2022,4,7/5/2022,Wide,Undervalued,Medium,Strong,186.51,,,7/5/2022,C,B,A,0,334.45,5,,,,,29.56,130.2,251.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Summary Statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eightieth Percentile,,,3,,59.8,,,,,,,,,,,,3,,,,,,58.1749848,,,,,,,0,304.906,5,,,,,26.937034,40.76,82.31
+Sixtieth Percentile,,,3,,98.6,,,,,,,,,,,,3,,,,,,94.5210058,,,,,,,0,396.736,6,,,,,43.498298,64.2,140.4
+Fortieth Percentile,,,4,,147.6,,,,,,,,,,,,4,,,,,,149.2664688,,,,,,,0.000001,478.642,7,,,,,58.362026,100.38,209.25
+Twentieth Percentile,,,4,,240.4,,,,,,,,,,,,5,,,,,,243.1429492,,,,,,,0.00062,586.292,9,,,,,72.444492,163.8,337.5
+Sum,,,1532,,83852.9,,,,,,,,,,,,1813,,,,,,96164.70252,,,,,,,4.859075,193152.91,3335,,,,,24955.85862,54960.24,120955.13
+Average,,,3.481818182,,190.5747727,,,,,,,,,,,,3.604373757,,,,,,191.1823112,,,,,,,9.80E-03,449.192814,6.806122449,,,,,49.91171724,124.9096364,274.8980227
+Count,503,442,440,442,440,441,442,491,491,442,442,442,442,442,442,503,503,503,503,503,503,503,503,0,0,503,503,467,500,496,430,490,0,0,0,0,500,440,440
+Maximum,,,5,,3600,,,,,,,,,,,,5,,,,,,4894.542641,,,,,,,0.502677,975.99,10,,,,,99.55652,2160,5580
+Minimum,,,1,,14,,,,,,,,,,,,1,,,,,,12.002137,,,,,,,0,104.37,1,,,,,1.26137,8.4,21.6
+Median,,,4,,125,,,,,,,,,,,,3,,,,,,120.253072,,,,,,,0,442.965,7,,,,,49.2121,79.45,175.5
+Standard Deviation,,,0.920352692,,316.5170436,,,,,,,,,,,,0.965820645,,,,,,339.3980684,,,,,,,4.15E-02,169.8693231,1.902845589,,,,,24.46600987,194.9774428,482.7432932

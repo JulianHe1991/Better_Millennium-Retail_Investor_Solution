@@ -45,7 +45,7 @@ The second chart is for the investor who can accept some volatility but also see
 
 ![](Images/model_portfolio_1.png)
 
-Finally, the model would draw a strategy return based on constituent stocks. And this specific example has beaten the market index by 7.6% on average. 
+Finally, the model would draw a strategy return based on constituent stocks. And this specific example has more than doubled the market return.
 ![](Images/Strategy_return.png)
 
 <br>

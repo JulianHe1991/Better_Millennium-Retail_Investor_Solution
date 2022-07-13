@@ -1,4 +1,4 @@
-## Retail Investor Solution Project (MVP)
+## Better Millennium - Retail Investor Solution
 
 **Author:** Xibei(Julian) He
 <br>

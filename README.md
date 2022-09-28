@@ -43,7 +43,7 @@ This would be a weight assignment for the investor who does not want too much ri
 
 The second chart is for the investor who can accept some volatility but also seek more return. 
 
-![](Images/model_portfolio_1.png)
+![](Images/model_portfolio_2.png)
 
 Finally, the model would draw a strategy return based on constituent stocks. And this specific example has more than doubled the market return.
 ![](Images/Strategy_return.png)
